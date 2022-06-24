@@ -59,4 +59,4 @@ Merchandise organised for the FLinders Academic Science Club. Two other designs 
 
 Adverstising for a study session run by the Flinders Uni Computer Society, in poster/slide/social-media formats. Assembled in Canva from components made using Inkscape. The computer character/mascot was made previously by others in the club.
 
-<img src="Closed/FUCS - FUCS Studying!/FUCS Studying Poster 2022 S1 v8.png" alt="Poster adverstising FUCS Studying!" width="50%"/> <img src="Closed/FUCS - FUCS Studying!/FUCS Studying Slide 2022 S1 v5.png" alt="Slide adverstising FUCS Studying!" width="32%"/> <img src="Closed/FUCS - FUCS Studying!/FUCS Studying Social Media Square 2022 S1 v2.png" alt="Social media square adverstising FUCS Studying!" width="32%"/>
+<img src="Closed/FUCS - FUCS Studying!/FUCS Studying Collage 2022 S1.png" alt="Poster, social media square, and slide adverstising FUCS Studying!" width="100%"/>
