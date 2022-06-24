@@ -55,3 +55,8 @@ Merchandise organised for the FLinders Academic Science Club. Two other designs 
 
 <img src="Closed/FLASC - Merch/Multicolour flasc 3.10 blue-bg cropped.png" alt="Conical flask with the letters F, L, A, S, C squished inside it" width="32%"/> <img src="Closed/FLASC - Merch/Multicolour flasc on carolina-blue preview.png" alt="Light blue jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="32%"/> <img src="Closed/FLASC - Merch/Multicolour flasc on black preview.png" alt="Black jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="32%"/>
 
+### FUCS Studying!
+
+Adverstising for a study session run by the Flinders Uni Computer Society, in poster/slide/social-media formats. Assembled in Canva from components made using Inkscape. The computer character/mascot was made previously by others in the club.
+
+<img src="Closed/FUCS - FUCS Studying!/FUCS Studying Poster 2022 S1 v8.png" alt="Poster adverstising FUCS Studying!" width="50%"/> <img src="Closed/FUCS - FUCS Studying!/FUCS Studying Slide 2022 S1 v5.png" alt="Slide adverstising FUCS Studying!" width="32%"/> <img src="Closed/FUCS - FUCS Studying!/FUCS Studying Social Media Square 2022 S1 v2.png" alt="Social media square adverstising FUCS Studying!" width="32%"/>
