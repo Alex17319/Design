@@ -48,3 +48,10 @@ Merchandise organised for the Flinders Uni Computer Society. I heard the slogan 
 <img src="Closed/FUCS - Merch/Previews/jumper-forest-green-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/jumper-forest-green-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
 
 <img src="Closed/FUCS - Merch/Previews/t-shirt-copper-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/t-shirt-copper-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
+
+### FLASC Merchandise
+
+Merchandise organised for the FLinders Academic Science Club. Two other designs were also printed, however they were primarily developed by others, with my only jobs being to convert them to SVG format so they could be printed, test out different colours, make previews, etc. This design was developed by me, with feedback from others along the way, and was based on the existing FLASC logo seen in the table-banner above. The multi-coloured colour scheme was adapted from the designs used for the clubs 2019 'Drinking CaPS' pubcrawl (when they went by the name Thinking CaPS).
+
+<img src="Closed/FLASC - Merch/Multicolour flasc on carolina-blue preview.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FLASC - Merch/Multicolour flasc on black preview.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
+
