@@ -34,3 +34,17 @@ Banners for the Flinders Uni Computer Society and FLinders Academic Science Club
 <img src="Closed/FUCS - Table Banner/Table banner v19 1300x150.png" alt="A wide banner saying 'FUCS: The Flinders University Computer Society', surrounded by a network of computing-related icons" width="100%"/>
 
 <img src="Closed/FLASC - Table Banner/FLASC Table Banner v11 small.png" alt="A wide banner saying 'Finders Academic Science Club', surrounded by scattered science-related icons" width="100%"/>
+
+### FUCS Merchandise
+
+Merchandise organised for the Flinders Uni Computer Society. I heard the slogan from someone else, forgot who, and then everyone I asked said it wasn't them. The designs for the front & back were developed by me with significant feedback from others to guide each step of the process, and the merch was printed by Topline Promotions on AS Colour clothes in a variety of colours & sizes (only some are shown here).
+
+<img src="Closed/FUCS - Merch/Previews/crop-top-berry-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/crop-top-berry-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
+
+<img src="Closed/FUCS - Merch/Previews/hoodie-bright-royal-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/hoodie-bright-royal-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
+
+<img src="Closed/FUCS - Merch/Previews/crop-hoodie-coal-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/crop-hoodie-coal-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
+
+<img src="Closed/FUCS - Merch/Previews/jumper-forest-green-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/jumper-forest-green-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
+
+<img src="Closed/FUCS - Merch/Previews/t-shirt-copper-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="Closed/FUCS - Merch/Previews/t-shirt-copper-2-back.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/>
