@@ -15,7 +15,7 @@ These design assets are not to be reused/modified/reproduced elsewhere.
 
 ### FUCS Facebook Banner
 
-The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version was created by me, with significant feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president.
+The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version was created by me, with significant feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president. The font used is a modified version of Audiowide by Brian J. Bonislawsky, licensed under the SIL Open Font License.
 
 <img src="Closed/FUCS - Facebook Banner/FB Banner v51.png" alt="A banner saying 'FUCS: The Flinders University Computer Society', surrounded by a network of computing-related icons" width="100%"/>
 
