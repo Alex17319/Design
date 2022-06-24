@@ -33,7 +33,7 @@ Banners for the Flinders Uni Computer Society and FLinders Academic Science Club
 
 <img src="FLASC - Table Banner/FLASC Table Banner v11 small.png" alt="A wide banner saying 'Finders Academic Science Club', surrounded by scattered science-related icons" width="100%"/>
 
-© Alex Priest, FUCS, & FLASC 2022
+© Alex Priest, FUCS & FLASC 2022
 
 ## FUCS Merchandise
 
