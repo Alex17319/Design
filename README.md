@@ -49,7 +49,7 @@ Merchandise organised for the Flinders Uni Computer Society. I heard the slogan 
 
 <img src="FUCS - Merch/Previews/t-shirt-copper-1-front.png" alt="T-shirt viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="FUCS - Merch/Previews/t-shirt-copper-2-back.png" alt="T-shirt viewed from the back, showing a duck made of ASCII characters" width="49%"/>
 
-© Alex Priest 2022
+© Alex Priest & FUCS 2022
 
 ## FLASC Merchandise
 
