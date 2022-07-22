@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="Poster v9.svg"
-   inkscape:export-filename="C:\Users\VIAPRIES\Documents\Github\Clubs\FUCS Branding\Events\FUCS Ukraine Pubcrawl\Poster v9.png"
+   sodipodi:docname="Poster v10.svg"
+   inkscape:export-filename="C:\Users\VIAPRIES\Documents\Github\Clubs\FUCS Branding\Events\FUCS Ukraine Pubcrawl\Poster v10.png"
    inkscape:export-xdpi="96.036186"
    inkscape:export-ydpi="96.036186"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.93974427"
-     inkscape:cx="365.52497"
-     inkscape:cy="533.65582"
+     inkscape:zoom="0.66449955"
+     inkscape:cx="334.08601"
+     inkscape:cy="521.44505"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="g32632"
      units="mm"
      inkscape:snap-page="true"
      inkscape:object-paths="false"
@@ -55,7 +55,7 @@
     <linearGradient
        id="Foreground"
        inkscape:swatch="solid"
-       gradientTransform="matrix(0.01414007,0.09730289,-0.10598498,-0.01180136,-7.6540012,-2408.4775)">
+       gradientTransform="matrix(-0.05151662,-0.013066,0.0278167,-0.05048629,1549.8371,942.16566)">
       <stop
          style="stop-color:#ffd500;stop-opacity:1;"
          offset="0"
@@ -162,7 +162,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer16"
-     inkscape:label="Background gradient">
+     inkscape:label="Background gradient"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="display:inline;fill:url(#linearGradient1427);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1355"
@@ -377,45 +379,10 @@
          id="path32618"
          sodipodi:nodetypes="cccccccccccccc" />
       <path
-         sodipodi:type="star"
-         style="fill:url(#Foreground);fill-opacity:1;stroke:none;stroke-width:4.14697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.29395, 8.29395;stroke-dashoffset:0"
          id="path32620"
-         inkscape:flatsided="true"
-         sodipodi:sides="8"
-         sodipodi:cx="0"
-         sodipodi:cy="267.25836"
-         sodipodi:r1="116.22258"
-         sodipodi:r2="107.37566"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="1.9634954"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="M 3.114172e-6,383.48094 -82.181772,349.44014 -116.22258,267.25836 -82.181777,185.07659 -3.1141721e-6,151.03578 82.181772,185.07659 116.22258,267.25836 82.181777,349.44013 Z"
-         transform="matrix(-0.06985366,0.16864162,-0.16864162,-0.06985366,87.558621,162.91959)"
-         inkscape:export-filename="C:\Users\VIAPRIES\Documents\Github\Clubs\FUCS Branding\Events\FUCS Ukraine Pubcrawl\stop-the-war.png"
-         inkscape:export-xdpi="96.036186"
-         inkscape:export-ydpi="96.036186" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61773px;line-height:0.95;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, ';text-align:center;text-anchor:middle;fill:url(#Background);stroke-width:0.337698"
-         x="42.528259"
-         y="139.30217"
-         id="text32628"><tspan
-           sodipodi:role="line"
-           id="tspan32622"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61773px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, ';text-align:center;text-anchor:middle;fill:url(#Background);stroke-width:0.337698"
-           x="42.528259"
-           y="139.30217">STOP</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61773px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, ';text-align:center;text-anchor:middle;fill:url(#Background);stroke-width:0.337698"
-           x="42.528259"
-           y="147.48901"
-           id="tspan32624">THE</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.61773px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, ';text-align:center;text-anchor:middle;fill:url(#Background);stroke-width:0.337698"
-           x="42.528259"
-           y="155.67586"
-           id="tspan32626">WAR</tspan></text>
+         style="fill:url(#Foreground);fill-opacity:1;stroke:none;stroke-width:2.24157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.48314, 4.48314;stroke-dashoffset:0"
+         d="M 187.98828 334.46484 L 153.98828 368.46484 L 153.98828 416.54688 L 187.98828 450.54492 L 236.07031 450.54492 L 270.06836 416.54688 L 270.06836 368.46484 L 236.07031 334.46484 L 187.98828 334.46484 z M 218.74023 360.16992 C 221.84705 360.16992 224.25215 361.0792 225.95508 362.89844 C 226.80239 363.79559 227.44108 364.76778 227.87305 365.81445 C 228.30501 366.86113 228.52148 367.97129 228.52148 369.14258 C 228.52148 371.55993 227.63999 373.66127 225.87891 375.44727 C 224.11783 377.23326 221.73906 378.125 218.74023 378.125 C 215.8411 378.125 213.49012 377.28738 211.6875 375.60938 C 209.87658 373.93968 208.9707 371.78421 208.9707 369.14258 C 208.9707 367.69716 209.3232 366.29739 210.0293 364.94336 C 210.72708 363.59762 211.81287 362.46308 213.2832 361.54102 C 213.80654 361.21704 214.34236 360.95864 214.89062 360.76758 C 215.44719 360.57648 216.04932 360.43167 216.69727 360.33203 C 217.34521 360.22405 218.02583 360.16992 218.74023 360.16992 z M 179.9375 360.29492 C 181.45768 360.29492 182.74579 360.72592 183.80078 361.58984 L 183.80078 360.51953 L 187.72656 360.51953 L 187.72656 365.45312 L 183.85156 365.45312 C 183.37806 364.09078 182.5385 363.41016 181.33398 363.41016 C 180.48667 363.41016 180.0625 363.77142 180.0625 364.49414 C 180.0625 364.84303 180.18292 365.10486 180.42383 365.2793 C 180.65642 365.4621 181.40872 365.8653 182.67969 366.48828 C 184.38262 367.33559 185.52057 367.95332 186.09375 368.34375 C 186.3845 368.53485 186.67946 368.80544 186.97852 369.1543 C 187.28587 369.4949 187.53891 369.8474 187.73828 370.21289 C 188.19517 371.02697 188.42383 371.90847 188.42383 372.85547 C 188.42383 374.30919 187.8846 375.53783 186.80469 376.54297 C 185.72478 377.56473 184.36158 378.07617 182.7168 378.07617 C 181.18831 378.07617 179.8061 377.62421 178.56836 376.71875 L 178.56836 377.85156 L 174.66797 377.85156 L 174.66797 372.29492 L 178.56836 372.29492 C 179.03355 373.80679 179.90968 374.5625 181.19727 374.5625 C 182.12765 374.5625 182.5918 374.18904 182.5918 373.44141 C 182.5918 373.05098 182.42944 372.72626 182.10547 372.46875 C 181.75658 372.18631 181.02183 371.79529 179.90039 371.29688 C 178.4882 370.65723 177.44971 370.10581 176.78516 369.64062 C 176.16213 369.21697 175.63168 368.63044 175.19141 367.88281 C 174.75113 367.14349 174.5293 366.32489 174.5293 365.42773 C 174.5293 363.81618 175.05293 362.55781 176.09961 361.65234 C 177.13798 360.74688 178.41732 360.29492 179.9375 360.29492 z M 190.42969 360.51953 L 207.61328 360.51953 L 207.61328 367.82031 L 204.36133 367.82031 L 204.36133 364.66797 L 202.37891 364.66797 L 202.37891 373.70312 L 203.91211 373.70312 L 203.91211 377.85156 L 194.17969 377.85156 L 194.17969 373.70312 L 195.67578 373.70312 L 195.67578 364.66797 L 193.68164 364.66797 L 193.68164 367.82031 L 190.42969 367.82031 L 190.42969 360.51953 z M 230.90234 360.51953 L 241.5293 360.51953 C 243.97155 360.51953 245.75892 360.75502 246.88867 361.22852 C 248.01842 361.71033 248.84921 362.36656 249.38086 363.19727 C 249.91251 364.02797 250.17773 364.93922 250.17773 365.92773 C 250.17773 367.14887 249.8618 368.16103 249.23047 368.9668 C 248.59914 369.7809 247.76493 370.37083 246.72656 370.73633 C 245.7048 371.09353 244.12708 371.27344 241.99219 371.27344 L 239.28711 371.27344 L 239.28711 373.70312 L 241.03125 373.70312 L 241.03125 377.85156 L 230.90234 377.85156 L 230.90234 373.70312 L 232.58398 373.70312 L 232.58398 364.66797 L 230.90234 364.66797 L 230.90234 360.51953 z M 218.74023 364.23242 C 217.99261 364.23242 217.43241 364.56055 217.05859 365.2168 C 216.68478 365.87306 216.49805 367.18215 216.49805 369.14258 C 216.49805 371.0698 216.68478 372.36815 217.05859 373.04102 C 217.41579 373.7222 217.97599 374.06445 218.74023 374.06445 C 219.49617 374.06445 220.06173 373.73635 220.43555 373.08008 C 220.80936 372.41552 220.99609 371.10303 220.99609 369.14258 C 220.99609 367.24029 220.81277 365.94338 220.44727 365.25391 C 220.09007 364.57273 219.52109 364.23242 218.74023 364.23242 z M 239.28711 364.32031 L 239.28711 367.57227 L 240.5957 367.57227 C 241.50947 367.57227 242.17449 367.46402 242.58984 367.24805 C 242.98858 367.03205 243.1875 366.61326 243.1875 365.99023 C 243.1875 365.5832 243.07926 365.23752 242.86328 364.95508 C 242.65561 364.68095 242.37819 364.5064 242.0293 364.43164 C 241.69702 364.35682 241.13145 364.32031 240.33398 364.32031 L 239.28711 364.32031 z M 182.81641 384.76172 L 200 384.76172 L 200 392.06445 L 196.74805 392.06445 L 196.74805 388.91211 L 194.76562 388.91211 L 194.76562 397.94531 L 196.29883 397.94531 L 196.29883 402.0957 L 186.56641 402.0957 L 186.56641 397.94531 L 188.0625 397.94531 L 188.0625 388.91211 L 186.06836 388.91211 L 186.06836 392.06445 L 182.81641 392.06445 L 182.81641 384.76172 z M 202.10547 384.76172 L 211.25195 384.76172 L 211.25195 388.91211 L 210.14258 388.91211 L 210.14258 391.55273 L 214.1543 391.55273 L 214.1543 388.91211 L 213.0332 388.91211 L 213.0332 384.76172 L 222.16602 384.76172 L 222.16602 388.91211 L 220.85742 388.91211 L 220.85742 397.94531 L 222.16602 397.94531 L 222.16602 402.0957 L 213.0332 402.0957 L 213.0332 397.94531 L 214.1543 397.94531 L 214.1543 395.10547 L 210.14258 395.10547 L 210.14258 397.94531 L 211.25195 397.94531 L 211.25195 402.0957 L 202.13086 402.0957 L 202.13086 397.94531 L 203.43945 397.94531 L 203.43945 388.91211 L 202.10547 388.91211 L 202.10547 384.76172 z M 224.44727 384.76172 L 241.00781 384.76172 L 241.00781 390.30664 L 236.45898 390.30664 L 236.45898 388.91211 L 232.52148 388.91211 L 232.52148 391.57812 L 235.94727 391.57812 L 235.94727 395.10547 L 232.52148 395.10547 L 232.52148 397.94531 L 236.45898 397.94531 L 236.45898 396.55078 L 241.00781 396.55078 L 241.00781 402.0957 L 224.47266 402.0957 L 224.47266 397.94531 L 225.81836 397.94531 L 225.81836 388.91211 L 224.44727 388.91211 L 224.44727 384.76172 z M 178.0625 409.00586 L 187.04688 409.00586 L 187.04688 413.1543 L 185.75 413.1543 L 187.79492 420.61914 L 190.38672 413.1543 L 189.10352 413.1543 L 189.10352 409.00586 L 196.6543 409.00586 L 196.6543 413.1543 L 195.37109 413.1543 L 198 420.61914 L 200.06836 413.1543 L 198.82227 413.1543 L 198.82227 409.00586 L 205.8125 409.00586 L 205.8125 413.1543 L 204.61523 413.1543 L 199.68164 426.48828 L 194.29883 426.48828 L 191.95703 419.80859 L 189.60156 426.48828 L 184.14258 426.48828 L 179.25977 413.1543 L 178.0625 413.1543 L 178.0625 409.00586 z M 208.72852 409.00586 L 221.18945 409.00586 L 221.18945 413.1543 L 219.79297 413.1543 L 223.10742 422.18945 L 224.37891 422.18945 L 224.37891 426.33789 L 215.33203 426.33789 L 215.33203 422.53711 L 216.85156 422.53711 L 216.19141 420.35742 L 211.75586 420.35742 L 210.99609 422.53711 L 212.41602 422.53711 L 212.41602 426.33789 L 205.55078 426.33789 L 205.55078 422.18945 L 206.87109 422.18945 L 210.12305 413.1543 L 208.72852 413.1543 L 208.72852 409.00586 z M 225.77344 409.00586 L 235.19336 409.00586 C 236.04067 409.00586 236.82612 409.02152 237.54883 409.05469 C 238.27154 409.07956 238.89122 409.12145 239.40625 409.17969 C 239.92128 409.22944 240.39421 409.29922 240.82617 409.39062 C 242.03899 409.64813 243.02336 410.21029 243.7793 411.07422 C 244.54354 411.95475 244.92578 412.99324 244.92578 414.18945 C 244.92578 415.08661 244.69371 415.89985 244.22852 416.63086 C 243.76332 417.35358 243.15242 417.88598 242.39648 418.22656 L 244.78906 422.1875 L 246.03516 422.1875 L 246.03516 426.33789 L 239.79297 426.33789 L 236.01562 419.25977 L 233.88477 419.25977 L 233.88477 422.1875 L 235.19336 422.1875 L 235.19336 426.33789 L 225.77344 426.33789 L 225.77344 422.18945 L 227.18164 422.18945 L 227.18164 413.1543 L 225.77344 413.1543 L 225.77344 409.00586 z M 233.88477 412.80664 L 233.88477 416.10742 L 234.63281 416.10742 C 235.61304 416.10742 236.27806 416.07952 236.62695 416.02148 C 237.00077 415.96325 237.3167 415.79554 237.57422 415.52148 C 237.83173 415.26398 237.96094 414.91148 237.96094 414.46289 C 237.96094 414.01432 237.83173 413.65842 237.57422 413.39258 C 237.3167 413.11845 236.98858 412.95072 236.58984 412.89258 C 236.20772 412.83434 235.50955 412.80664 234.49609 412.80664 L 233.88477 412.80664 z M 214.04883 413.4043 L 212.41602 418.20117 L 215.51953 418.20117 L 214.04883 413.4043 z "
+         transform="matrix(0.33769784,0,0,0.33769784,-29.11381,11.702464)" />
     </g>
     <path
        style="fill:none;fill-opacity:1;stroke:url(#Foreground);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -464,32 +431,32 @@
        transform="translate(-169.43888,-4.9451208)"><tspan
          x="256.26935"
          y="254.11336"
-         id="tspan78335">During Russia's February attack on<tspan
+         id="tspan1630">During Russia's February attack on<tspan
    y="254.11336"
-   id="tspan78337"> </tspan></tspan><tspan
+   id="tspan1632"> </tspan></tspan><tspan
          x="256.26935"
          y="260.41044"
-         id="tspan78339">Snake Island, the warship Moskva<tspan
+         id="tspan1634">Snake Island, the warship Moskva<tspan
    y="260.41044"
-   id="tspan78341"> </tspan></tspan><tspan
+   id="tspan1636"> </tspan></tspan><tspan
          x="256.26935"
          y="266.70753"
-         id="tspan78343">called on the 13 defenders to<tspan
+         id="tspan1638">called on the 13 defenders to<tspan
    y="266.70753"
-   id="tspan78345"> </tspan></tspan><tspan
+   id="tspan1640"> </tspan></tspan><tspan
          x="256.26935"
          y="273.00462"
-         id="tspan78347">surrender, or else they would be<tspan
+         id="tspan1642">surrender, or else they would be<tspan
    y="273.00462"
-   id="tspan78349"> </tspan></tspan><tspan
+   id="tspan1644"> </tspan></tspan><tspan
          x="256.26935"
          y="279.30171"
-         id="tspan78351">bombed. The response? &quot;Russian<tspan
+         id="tspan1646">bombed. The response? &quot;Russian<tspan
    y="279.30171"
-   id="tspan78353"> </tspan></tspan><tspan
+   id="tspan1648"> </tspan></tspan><tspan
          x="256.26935"
          y="285.5988"
-         id="tspan78355">warship, go f*ck yourself&quot;</tspan></text>
+         id="tspan1650">warship, go f*ck yourself&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;line-height:1.05;font-family:'Tw Cen MT Condensed Extra Bold';-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold, ';text-align:start;text-anchor:start;white-space:pre;inline-size:82.0595;fill:url(#Foreground);stroke-width:0.264583"
@@ -499,22 +466,22 @@
        transform="translate(-40.442921,-4.9451208)"><tspan
          x="163.5032"
          y="254.11336"
-         id="tspan78357">This became a rallying call at </tspan><tspan
+         id="tspan1652">This became a rallying call at </tspan><tspan
          x="163.5032"
          y="260.41044"
-         id="tspan78359">protests against the war around the </tspan><tspan
+         id="tspan1654">protests against the war around the </tspan><tspan
          x="163.5032"
          y="266.70753"
-         id="tspan78361">world. To aid the war relief effort, </tspan><tspan
+         id="tspan1656">world. To aid the war relief effort, </tspan><tspan
          x="163.5032"
          y="273.00462"
-         id="tspan78363">FUCS is running a pub crawl, with </tspan><tspan
+         id="tspan1658">FUCS is running a pub crawl, with </tspan><tspan
          x="163.5032"
          y="279.30171"
-         id="tspan78365">100% of all profits donated to </tspan><tspan
+         id="tspan1660">100% of all profits donated to </tspan><tspan
          x="163.5032"
          y="285.5988"
-         id="tspan78367">charities supporting Ukraine.</tspan></text>
+         id="tspan1662">charities supporting Ukraine.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Rockwell Condensed';-inkscape-font-specification:'Rockwell Condensed, ';text-align:center;text-anchor:middle;fill:url(#Foreground);stroke-width:0.264583"
