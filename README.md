@@ -69,7 +69,7 @@ Adverstising for a study session run by the Flinders Uni Computer Society, in po
 
 ## FUCS Charity Pub Crawl for Ukraine
 
-Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Computer Society. The design was based on a rough sketch by the club president. The first two images are shirt designs, the third is a poster, and the fourth is a facebook banner.
+Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Computer Society. The design was based on a rough sketch by the club president. The first two images are shirt designs, the third is a poster, and the fourth is a Facebook banner.
 
 <img src="FUCS - Ukraine Pub Crawl/Shirt design v36a member.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="32.66%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Ukraine Pub Crawl/Shirt design v36b exec.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="32.66%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Ukraine Pub Crawl/Poster v10.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="32.66%"/>
 
