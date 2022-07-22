@@ -66,3 +66,13 @@ Adverstising for a study session run by the Flinders Uni Computer Society, in po
 <img src="FUCS - FUCS Studying!/FUCS Studying Collage 2022 S1.png" alt="Poster, social media square, and slide adverstising FUCS Studying!" width="100%"/>
 
 © Alex Priest & FUCS 2022
+
+## FUCS Charity Pub Crawl for Ukraine
+
+Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Computer Society. The design was based on a rough sketch by the club president. The first two images are shirt designs, the third is a poster, and the fourth is a facebook banner.
+
+<img src="FUCS - Ukraine Pub Crawl/Shirt design v36a member.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="33.33%"/><img src="FUCS - Ukraine Pub Crawl/Shirt design v36b exec.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="33.33%"/><img src="FUCS - Ukraine Pub Crawl/Poster v9.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="33.33%"/>
+
+<img src="FUCS - Ukraine Pub Crawl/FB Banner v4.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="100%"/>
+
+© Alex Priest & FUCS 2022
