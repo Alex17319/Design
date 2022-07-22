@@ -21,7 +21,7 @@ The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version
 
 The 2022 logo for the Flinders Uni Computer Society. The blue version was created by me, with significant feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president.
 
-<img src="FUCS - Logo/Logo v19.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/> <img src="FUCS - Logo/Logo v21.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/>
+<img src="FUCS - Logo/Logo v19.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Logo/Logo v21.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/>
 
 © Alex Priest & FUCS 2022
 
@@ -39,15 +39,15 @@ Banners for the Flinders Uni Computer Society and FLinders Academic Science Club
 
 Merchandise organised for the Flinders Uni Computer Society. I heard the slogan from someone else, forgot who, and then everyone I asked said it wasn't them. The designs for the front & back were developed by me with significant feedback from others to guide each step of the process, and the merch was printed by Topline Promotions on AS Colour clothes in a variety of colours & sizes (only some are shown here).
 
-<img src="FUCS - Merch/Previews/crop-top-berry-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="FUCS - Merch/Previews/crop-top-berry-2-back.png" alt="Crop top viewed from the back, showing a duck made of ASCII characters" width="49%"/>
+<img src="FUCS - Merch/Previews/crop-top-berry-1-front.png" alt="Crop top viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/crop-top-berry-2-back.png" alt="Crop top viewed from the back, showing a duck made of ASCII characters" width="50%"/>
 
-<img src="FUCS - Merch/Previews/hoodie-bright-royal-1-front.png" alt="Hoodie viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="FUCS - Merch/Previews/hoodie-bright-royal-2-back.png" alt="Hoodie viewed from the back, showing a duck made of ASCII characters" width="49%"/>
+<img src="FUCS - Merch/Previews/hoodie-bright-royal-1-front.png" alt="Hoodie viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/hoodie-bright-royal-2-back.png" alt="Hoodie viewed from the back, showing a duck made of ASCII characters" width="50%"/>
 
-<img src="FUCS - Merch/Previews/crop-hoodie-coal-1-front.png" alt="Cropped hoodie viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="FUCS - Merch/Previews/crop-hoodie-coal-2-back.png" alt="Cropped hoodie viewed from the back, showing a duck made of ASCII characters" width="49%"/>
+<img src="FUCS - Merch/Previews/crop-hoodie-coal-1-front.png" alt="Cropped hoodie viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/crop-hoodie-coal-2-back.png" alt="Cropped hoodie viewed from the back, showing a duck made of ASCII characters" width="50%"/>
 
-<img src="FUCS - Merch/Previews/jumper-forest-green-1-front.png" alt="Jumper viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="FUCS - Merch/Previews/jumper-forest-green-2-back.png" alt="Jumper viewed from the back, showing a duck made of ASCII characters" width="49%"/>
+<img src="FUCS - Merch/Previews/jumper-forest-green-1-front.png" alt="Jumper viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/jumper-forest-green-2-back.png" alt="Jumper viewed from the back, showing a duck made of ASCII characters" width="50%"/>
 
-<img src="FUCS - Merch/Previews/t-shirt-copper-1-front.png" alt="T-shirt viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="49%"/> <img src="FUCS - Merch/Previews/t-shirt-copper-2-back.png" alt="T-shirt viewed from the back, showing a duck made of ASCII characters" width="49%"/>
+<img src="FUCS - Merch/Previews/t-shirt-copper-1-front.png" alt="T-shirt viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/t-shirt-copper-2-back.png" alt="T-shirt viewed from the back, showing a duck made of ASCII characters" width="50%"/>
 
 © Alex Priest & FUCS 2022
 
@@ -55,7 +55,7 @@ Merchandise organised for the Flinders Uni Computer Society. I heard the slogan 
 
 Merchandise organised for the FLinders Academic Science Club. Two other designs were also printed, however they were primarily developed by others, with my only jobs being to convert them to SVG format so they could be printed, test out different colours, make previews, etc. This design was developed by me, with feedback from others along the way, and was based on the existing FLASC logo seen in the table-banner above. The multi-coloured colour scheme was adapted from the designs used for the club's 2019 'Drinking CaPS' pubcrawl (when they went by the name Thinking CaPS).
 
-<img src="FLASC - Merch/Multicolour flasc 3.10 blue-bg cropped.png" alt="Conical flask with the letters F, L, A, S, C squished inside it" width="32%"/> <img src="FLASC - Merch/Multicolour flasc on carolina-blue preview.png" alt="Light blue jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="32%"/> <img src="FLASC - Merch/Multicolour flasc on black preview.png" alt="Black jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="32%"/>
+<img src="FLASC - Merch/Multicolour flasc 3.10 blue-bg cropped.png" alt="Conical flask with the letters F, L, A, S, C squished inside it" width="33.33%"/><img src="FLASC - Merch/Multicolour flasc on carolina-blue preview.png" alt="Light blue jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="33.33%"/><img src="FLASC - Merch/Multicolour flasc on black preview.png" alt="Black jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="33.33%"/>
 
 © Alex Priest & FLASC 2022
 
@@ -71,7 +71,7 @@ Adverstising for a study session run by the Flinders Uni Computer Society, in po
 
 Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Computer Society. The design was based on a rough sketch by the club president. The first two images are shirt designs, the third is a poster, and the fourth is a facebook banner.
 
-<img src="FUCS - Ukraine Pub Crawl/Shirt design v36a member.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="33.33%"/><img src="FUCS - Ukraine Pub Crawl/Shirt design v36b exec.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="33.33%"/><img src="FUCS - Ukraine Pub Crawl/Poster v10.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="33.33%"/>
+<img src="FUCS - Ukraine Pub Crawl/Shirt design v36a member.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="32.66%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Ukraine Pub Crawl/Shirt design v36b exec.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="32.66%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Ukraine Pub Crawl/Poster v10.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="32.66%"/>
 
 <img src="FUCS - Ukraine Pub Crawl/FB Banner v4.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="100%"/>
 
