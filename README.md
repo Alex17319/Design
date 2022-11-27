@@ -81,8 +81,16 @@ Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Comp
 
 ## FLASC pull-up banner
 
-Pull-up banner (2 m tall) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design that the new one was modelled on.
+Pull-up banner (2 m tall) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
 
-<img src="FLASC - Pull-up banner/Pullup banner 35 24dpi no-bleed.png" alt="Vertical banner, with white splotches on a blue background. Text in the splotches reads FLASC: Flinders Academic Science Club. The Student Society for all things Science. Flinders University, Bedford Park. flascflinders@gmail.com. direct.me/flasc. Flinders University" width="50%"/> <img src="FLASC - Pull-up banner/Thinking CaPS old pull-up banner.jpg" alt="Vertical banner, with navy blue text on a yellow background. The text reads Thinking CaPS. Chemical & Physical Sciences Student Society. Flinders University, Bedford Park. www.thinkingcaps.club" width="48%"/>
+<img src="FLASC - Pull-up banner/Pullup banner 35 24dpi no-bleed.png" alt="Vertical banner, with white splotches on a blue background. Text in the splotches reads: FLASC: Flinders Academic Science Club. The Student Society for all things Science. Flinders University, Bedford Park. flascflinders@gmail.com. direct.me/flasc. Flinders University" width="50%"/> <img src="FLASC - Pull-up banner/Thinking CaPS old pull-up banner.jpg" alt="Vertical banner, with navy blue text on a yellow background. The text reads: Thinking CaPS. Chemical & Physical Sciences Student Society. Flinders University, Bedford Park. www.thinkingcaps.club" width="48%"/>
+
+© Alex Priest & FLASC 2022
+
+## FLASC hallway banner
+
+Hanging hallway banner (2 m wide) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with CMYK conversion performed using Krita (RGB versions are shown here). Below the design is the existing Thinking CaPS design, which the new one was based on.
+
+<img src="FLASC - Hallway banner/Hallway Banner v4b 24dpi no-bleed.png" alt="Horizontal banner, with text on the left and various science-related images in hexagons on the right. The text reads: FLASC. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc. Flinders Academic Science Club" width="100%"/><img src="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" alt="Photograph of a horizontal banner, with text on the left and various science-related images in hexagons on the right. The text reads: Thinking CaPS. www.ThinkingCaPS.club" width="100%"/>
 
 © Alex Priest & FLASC 2022
