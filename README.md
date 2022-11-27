@@ -78,3 +78,9 @@ Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Comp
 <img src="FUCS - Ukraine Pub Crawl/Shirt design v37a member.png" alt="A4 shirt design: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="28.70%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Ukraine Pub Crawl/Social media square A v2.png" alt="Social media square: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="40.59%"/><img src="Utils/Padding.png" width="1%"></img><img src="FUCS - Ukraine Pub Crawl/Shirt design v37b exec.png" alt="A4 shirt design for organisers: Blue text on yellow, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="28.70%"/>
 
 © Alex Priest & FUCS 2022
+
+## FLASC physical branding items
+
+Physical branding items made for the FLinders Academic Science Club, to replace their existing branding items when they went by the name Thinking CaPS. The items included a 2m tall pull-up banner, 2m wide hallway banner, 90 cm wide stickers, and circular floor adhesives. The first three designs were made in Inkscape, while the last was made in Canva. In both cases, CMYK conversion was performed using Krita (RGB versions are shown here).
+
+© Alex Priest & FLASC 2022
