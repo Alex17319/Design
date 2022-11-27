@@ -79,6 +79,14 @@ Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Comp
 
 © Alex Priest & FUCS 2022
 
+## FLASC floor stickers
+
+Circular floor stickers made for the FLinders Academic Science Club, placed along pathways to point towards the club's common room, to replace their existing stickers from when they went by the name Thinking CaPS. The design was made in Canva, with detailed feedback from others, and with , and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
+
+<img src="FLASC - Floor stickers/Floor stickers - cropped - up - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and an upward pointing arrow inside a dark blue circle at the top." width="25%"/><img src="FLASC - Floor stickers/Floor stickers - cropped - right - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and a rightward pointing arrow inside a dark blue circle at the top." width="25%"/><img src="FLASC - Floor stickers/Floor stickers - cropped - left - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and a leftward pointing arrow inside a dark blue circle at the top." width="25%"/><img src="FLASC - Floor stickers/Thinking CaPS old floor sticker.jpg" alt="Yellow circle with a stylised Thinking Caps text in navy blue at the bottom, and with a navy blue arrow pointing upwards at the top" width="25%"/>
+
+© Alex Priest & FLASC 2022
+
 ## FLASC pull-up banner
 
 Pull-up banner (2m tall) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
