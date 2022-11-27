@@ -79,8 +79,10 @@ Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Comp
 
 © Alex Priest & FUCS 2022
 
-## FLASC physical branding items
+## FLASC pull-up banner
 
-Physical branding items made for the FLinders Academic Science Club, to replace their existing branding items when they went by the name Thinking CaPS. The items included a 2m tall pull-up banner, 2m wide hallway banner, 90 cm wide stickers, and circular floor adhesives. The first three designs were made in Inkscape, while the last was made in Canva. In both cases, CMYK conversion was performed using Krita (RGB versions are shown here).
+Pull-up banner (2 m tall) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design that the new one was modelled on.
+
+<img src="FLASC - Pull-up banner/Pullup banner 35 24dpi no-bleed.png" alt="Vertical banner, with white splotches on a blue background. Text in the splotches reads FLASC: Flinders Academic Science Club. The Student Society for all things Science. Flinders University, Bedford Park. flascflinders@gmail.com. direct.me/flasc. Flinders University" width="50%"/><img src="FLASC - Pull-up banner/Thinking CaPS old pull-up banner.jpg" alt="Vertical banner, with navy blue text on a yellow background. The text reads Thinking CaPS. Chemical & Physical Sciences Student Society. Flinders University, Bedford Park. www.thinkingcaps.club" width="50%"/>
 
 © Alex Priest & FLASC 2022
