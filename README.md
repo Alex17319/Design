@@ -112,3 +112,7 @@ Hanging hallway banner (2m wide) made for the FLinders Academic Science Club, to
 <img src="FLASC - Book stickers/sticker v21.png" alt="Rectangular blue sticker, with a tilted FLASC logo on the left, and text on the right. The text reads: FLINDERS ACADEMIC SCIENCE CLUB. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc" width="51.25%"/><img src="Utils/Padding.png" width="1%"></img><img src="FLASC - Book stickers/Thinking CaPS old book sticker.png" alt="Rectangular yellow sticker, with orange hexagons on the right and black text on the left. The text includes a stylised Thinking CaPS logo, followed by www.ThinkingCaPS.club" width="47.75%"/>
 
 © Alex Priest & FLASC 2022
+
+## FLASC SWOTVAC Study Sessions
+
+Branding materials for regular study sessions run by the FLinders Academic Science Club. The initial designs were made in Inkscape, then exported as separate components (e.g. title, border, background, textbox, etc) and imported into Canva, so that others could easily edit them each semester
