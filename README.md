@@ -79,7 +79,7 @@ Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Comp
 
 ## FLASC general posters
 
-Posters made for the FLinders Academic Science Club. Both advertise the club to all students - the square one is intended for general member signups, while the rectangular one is intended to attract potential new board/exec members. Both designs were made in Inkscape, with feedback from others along the way. The logo & science-glyphs were made by others previously, while the text inside the hexagons was based on one of the clubs old Facebook banners.
+Posters made for the FLinders Academic Science Club. Both advertise the club to all students - the square one is intended for general member signups, while the rectangular one is intended to attract potential new board/exec members. Both designs were made in Inkscape, with feedback from others along the way. The logo & science-glyphs were made by others previously, while the text inside the hexagons was based on one of the club's old Facebook banners.
 
 <img src="FLASC - General Posters/GeneralPoster v8.png" width="57.97%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - General Posters/BoardPoster v8.png" width="41.00%"/>
 
