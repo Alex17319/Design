@@ -119,5 +119,9 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 
 <img src="FLASC - SWOTVAC Study Sessions/Slide v16 - complete 2023 S1.png" width="71.55%"/><img src="FLASC - SWOTVAC Study Sessions/A4 Poster v5 - blank.png" width="28.43%"/>
 
-<img src="FLASC - SWOTVAC Study Sessions/Social Square A v2 - complete 2023 S1.png" width="32.65%"/><img src="Utils/Padding.png" width="1%">
+<img src="FLASC - SWOTVAC Study Sessions/Social Square A v2 - complete 2023 S1.png" width="32.65%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 1.png" width="32.65%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 2.png" width="32.65%"/>
+
+<img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 3.png" width="32.65%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 4.png" width="32.65%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 5.png" width="32.65%"/>
+
+
 
