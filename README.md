@@ -126,3 +126,9 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 <img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank tutor.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank organiser.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Bio.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Chem.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Phys.png" width="13.02%"/>
 
 © Alex Priest & FLASC 2022
+
+## FLASC Thankyou Certificates
+
+Certificates made as a thankyou for outgoing club board members. The vertical lines of science-related glyphs were made in Inkscape, and then the rest was made in Google Sheets (!). Each person's details were entered as one row in a spreadsheet, then a formula was used to select a row via a dropdown, and then finally the info from that row was displayed with fancy fonts etc, ready to export as a PDF. These were printed on light-golden certificate paper, so took on that background colour while the digital files had a transparent background. A solid brown background colour has been artificially added to the examples below instead.
+
+<img src="FLASC - Certificates/Outgoing certificates - simulated-print - Kilahney.png" width="49.49%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - Certificates/Outgoing certificates - simulated-print - Phola.png" width="49.49%"/>
