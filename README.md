@@ -93,7 +93,7 @@ Pull-up banner (2m tall) made for the FLinders Academic Science Club, to replace
 
 <img src="FLASC - Pull-up banner/Pullup banner 35 24dpi no-bleed.png" alt="Vertical banner, with white splotches on a blue background. Text in the splotches reads: FLASC: Flinders Academic Science Club. The Student Society for all things Science. Flinders University, Bedford Park. flascflinders@gmail.com. direct.me/flasc. Flinders University" width="50.5%"/><img src="Utils/Padding.png" width="1%"></img><img src="FLASC - Pull-up banner/Thinking CaPS old pull-up banner.jpg" alt="Vertical banner, with navy blue text on a yellow background. The text reads: Thinking CaPS. Chemical & Physical Sciences Student Society. Flinders University, Bedford Park. www.thinkingcaps.club" width="48.5%"/>
 
-© Alex Priest & FLASC 2022
+© Alex Priest & FLASC 2023
 
 ## FLASC hallway banner
 
@@ -103,7 +103,7 @@ Hanging hallway banner (2m wide) made for the FLinders Academic Science Club, to
 
 <img src="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" alt="Photograph of a horizontal yellow banner, with text on the left and various science-related images in hexagons on the right. The text includes a stylised Thinking CaPS logo, followed by www.ThinkingCaPS.club" width="100%"/>
 
-© Alex Priest & FLASC 2022
+© Alex Priest & FLASC 2023
 
 ## FLASC book stickers
 
@@ -111,7 +111,7 @@ Hanging hallway banner (2m wide) made for the FLinders Academic Science Club, to
 
 <img src="FLASC - Book stickers/sticker v21.png" alt="Rectangular blue sticker, with a tilted FLASC logo on the left, and text on the right. The text reads: FLINDERS ACADEMIC SCIENCE CLUB. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc" width="51.25%"/><img src="Utils/Padding.png" width="1%"></img><img src="FLASC - Book stickers/Thinking CaPS old book sticker.png" alt="Rectangular yellow sticker, with orange hexagons on the right and black text on the left. The text includes a stylised Thinking CaPS logo, followed by www.ThinkingCaPS.club" width="47.75%"/>
 
-© Alex Priest & FLASC 2022
+© Alex Priest & FLASC 2023
 
 ## FLASC SWOTVAC Study Sessions
 
@@ -125,10 +125,12 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 
 <img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank tutor.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank organiser.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Bio.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Chem.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Phys.png" width="13.02%"/>
 
-© Alex Priest & FLASC 2022
+© Alex Priest & FLASC 2023
 
 ## FLASC Thankyou Certificates
 
 Certificates made as a thankyou for outgoing club board members. The vertical lines of science-related glyphs were made in Inkscape, and then the rest was made in Google Sheets (!). Each person's details were entered as one row in a spreadsheet, then a formula was used to select a row via a dropdown, and then finally the info from that row was displayed with fancy fonts etc, ready to export as a PDF. These were printed on light-golden certificate paper, so took on that background colour while the digital files had a transparent background. A solid brown background colour has been artificially added to the examples below instead.
 
 <img src="FLASC - Certificates/Outgoing certificates - simulated-print - Kilahney.png" width="49.49%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - Certificates/Outgoing certificates - simulated-print - Phola.png" width="49.49%"/>
+
+© Alex Priest & FLASC 2023
