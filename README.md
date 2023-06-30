@@ -45,10 +45,6 @@ Merchandise organised for the Flinders Uni Computer Society. I heard the slogan 
 
 <img src="FUCS - Merch/Previews/crop-hoodie-coal-1-front.png" alt="Cropped hoodie viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/crop-hoodie-coal-2-back.png" alt="Cropped hoodie viewed from the back, showing a duck made of ASCII characters" width="50%"/>
 
-<img src="FUCS - Merch/Previews/jumper-forest-green-1-front.png" alt="Jumper viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/jumper-forest-green-2-back.png" alt="Jumper viewed from the back, showing a duck made of ASCII characters" width="50%"/>
-
-<img src="FUCS - Merch/Previews/t-shirt-copper-1-front.png" alt="T-shirt viewed from the front, showing '404 no FUCS found' surrounded by a network of dots" width="50%"/><img src="FUCS - Merch/Previews/t-shirt-copper-2-back.png" alt="T-shirt viewed from the back, showing a duck made of ASCII characters" width="50%"/>
-
 © Alex Priest & FUCS 2022
 
 ## FLASC Merchandise
