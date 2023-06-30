@@ -116,3 +116,8 @@ Hanging hallway banner (2m wide) made for the FLinders Academic Science Club, to
 ## FLASC SWOTVAC Study Sessions
 
 Branding materials for regular study sessions run by the FLinders Academic Science Club. The initial designs were made in Inkscape, then exported as separate components (e.g. title, border, background, textbox, etc) and imported into Canva, so that others could easily edit them each semester
+
+<img src="FLASC - SWOTVAC Study Sessions/Slide v16 - complete 2023 S1.png" width="71.55%"/><img src="FLASC - SWOTVAC Study Sessions/A4 Poster v5 - blank.png" width="28.43%"/>
+
+<img src="FLASC - SWOTVAC Study Sessions/Social Square A v2 - complete 2023 S1.png" width="32.65%"/><img src="Utils/Padding.png" width="1%">
+
