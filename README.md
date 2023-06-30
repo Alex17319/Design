@@ -127,7 +127,7 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 
 © Alex Priest & FLASC 2023
 
-## FLASC Thankyou Certificates
+## FLASC thankyou certificates
 
 Certificates made as a thankyou for outgoing club board members. The vertical lines of science-related glyphs were made in Inkscape, and then the rest was made in Google Sheets (!). Each person's details were entered as one row in a spreadsheet, then a formula was used to select a row via a dropdown, and then finally the info from that row was displayed with fancy fonts etc, ready to export as a PDF. These were printed on light-golden certificate paper, so took on that background colour while the digital files had a transparent background. A solid brown background colour has been artificially added to the examples below instead.
 
