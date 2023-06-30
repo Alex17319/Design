@@ -9,7 +9,7 @@ This is a collection of computing-related icons made for the Flinders Uni Comput
 
 ## FUCS Facebook Banner
 
-The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version was created by me, with significant feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president. The font used is a modified version of Audiowide by Brian J. Bonislawsky, licensed under the SIL Open Font License.
+The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version was created by me, while requesting feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president. The font used is a modified version of Audiowide by Brian J. Bonislawsky, licensed under the SIL Open Font License.
 
 <img src="FUCS - Facebook Banner/FB Banner v51.png" alt="A banner saying 'FUCS: The Flinders University Computer Society', surrounded by a network of computing-related icons" width="100%"/>
 
@@ -115,7 +115,7 @@ Hanging hallway banner (2m wide) made for the FLinders Academic Science Club, to
 
 ## FLASC SWOTVAC Study Sessions
 
-Branding materials for regular study sessions run by the FLinders Academic Science Club. The initial designs were made in Inkscape, then exported as separate components (e.g. title, border, background, textbox, etc) and imported into Canva, so that others could easily edit them each semester
+Branding materials for regular study sessions run by the FLinders Academic Science Club. The initial designs were made in Inkscape, then exported as separate components (e.g. title, border, background, textbox, etc) and reconstructed in Canva, so that others could easily the body text/etc each semester. A combination of blank templates, and complete 2023 Semester 1 designs, are shown here. The FLASC logo & science-related glyphs were made by others beforehand, while the rest was new. The designs are, in order: A TV slide, an a4 poster, 6x social media squares, 2x blank name badges, and 3x A4 signs placed on the tables for different subjects.
 
 <img src="FLASC - SWOTVAC Study Sessions/Slide v16 - complete 2023 S1.png" width="71.55%"/><img src="FLASC - SWOTVAC Study Sessions/A4 Poster v5 - blank.png" width="28.43%"/>
 
@@ -123,5 +123,6 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 
 <img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 3.png" width="32.65%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 4.png" width="32.65%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Social Square B v2 - complete 2023 S1 part 5.png" width="32.65%"/>
 
+<img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank tutor.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank organiser.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Bio.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Chem.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Phys.png" width="13.02%"/>
 
-
+© Alex Priest & FLASC 2022
