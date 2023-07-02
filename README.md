@@ -103,9 +103,9 @@ Pull-up banner (2m tall) made for the FLinders Academic Science Club, to replace
 
 ## FLASC hallway banner
 
-Hanging hallway banner (2m wide) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). Below the design is the existing Thinking CaPS design, which the new one was based on.
+Hanging hallway banner (2.4m wide) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). Below the design is the existing Thinking CaPS design, which the new one was based on.
 
-<img src="FLASC - Hallway banner/Hallway Banner v4b 24dpi no-bleed.png" alt="Horizontal blue banner, with text on the left and various science-related images in hexagons on the right. The text reads: FLASC. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc. Flinders Academic Science Club" width="100%"/>
+<img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" alt="Horizontal blue banner, with text on the left and various science-related images in hexagons on the right. The text reads: FLASC. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc. Flinders Academic Science Club" width="100%"/>
 
 <img src="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" alt="Photograph of a horizontal yellow banner, with text on the left and various science-related images in hexagons on the right. The text includes a stylised Thinking CaPS logo, followed by www.ThinkingCaPS.club" width="100%"/>
 
