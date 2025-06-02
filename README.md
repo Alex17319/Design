@@ -133,10 +133,10 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 
 © Alex Priest & FLASC 2023
 
-## FLASC thankyou certificates
+## FLASC Lab Brat Pub Crawl
 
-Certificates made as a thankyou for outgoing club board members. The vertical lines of science-related glyphs were made in Inkscape, and then the rest was made in Google Sheets (!). Each person's details were entered as one row in a spreadsheet, then a formula was used to select a row via a dropdown, and then finally the info from that row was displayed with fancy fonts etc, ready to export as a PDF. These were printed on light-golden certificate paper, so took on that background colour while the digital files had a transparent background. A solid brown background colour has been artificially added to the examples below instead.
+Branding materials and shirts (etc) for a pub crawl in late 2024, run by the FLinders Academic Science Club. Designs were made in Inkscape, and most shirts etc were sold through Redbubble. Custom retro-reflective tank tops were dyed at home, and then hand-cut anti-reflective letters were ironed on. The club changed our profile picture to brat green while advertising the pub crawl.
 
-<img src="FLASC - Certificates/Outgoing certificates - simulated-print - Kilahney.png" width="49.49%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Certificates/Outgoing certificates - simulated-print - Phola.png" width="49.49%"/>
+<img src="FLASC - Lab Brat/ig-squares-1a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-2a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-3a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-4a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-5a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-6a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-7a.png" width="24%"/> <img src="FLASC - Lab Brat/lab-brat-poster-v2.png" width="24%"/> <img src="FLASC - Lab Brat/route-announcement-ig-square.png" width="24%"/> <img src="FLASC - Lab Brat/route-update-ig-square-v2.png" width="24%"/> <img src="FLASC - Lab Brat/Table of brat.png" width="24%"/> <img src="FLASC - Lab Brat/temporary-ig-profile-pic.png" width="24%"/> <img src="FLASC - Lab Brat/redbubble-shirts-1-crop.jpg" width="24%"/> <img src="FLASC - Lab Brat/square-apron.jpg" width="24%"/> <img src="FLASC - Lab Brat/square-mug.jpg" width="24%"/> <img src="FLASC - Lab Brat/redbubble-cushion.jpg" width="24%"/> <img src="FLASC - Lab Brat/redbubble-pet-bandanna.jpg" width="24%"/> <img src="FLASC - Lab Brat/square-spiral-book.jpg" width="24%"/>
 
-© Alex Priest & FLASC 2023
+© Alex Priest & FLASC 2024
