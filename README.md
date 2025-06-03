@@ -17,6 +17,18 @@ This is a collection of computing-related icons made for the Flinders Uni Comput
 
 <img src="FUCS - Glyphs/Glyphs.png" alt="drawing" width="100%"/>
 
+## FLASC Quiz Nights
+
+Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and handed out to advertise the quiz night. Animated TV slides were made each, showing the same trivia cards (low-res/low-framerate gifs are shown below). Static TV slides or instagram posts were also made each year, e.g. for screens that couldn't support showing a video.
+
+<img src="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" width="49.5%"/> <img src="FLASC - Quiz Night 2024/Animated-slide-mini.gif" width="49.5%"/>
+
+<img src="FLASC - Quiz Night 2023/card-front.png" width="24.5%"/> <img src="FLASC - Quiz Night 2023/card-back.png" width="24.5%"/> <img src="FLASC - Quiz Night 2024/card-front.png" width="24.5%"/> <img src="FLASC - Quiz Night 2024/card-back.png" width="24.5%"/>
+
+<img src="FLASC - Quiz Night 2023/Static Quiz Night Slide V9.png" width="46.5%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-1.png" width="26.1%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-2.png" width="26.1%"/>
+
+© Alex Priest & FLASC 2024
+
 ## FLASC Merchandise (2022)
 
 Merchandise organised for the FLinders Academic Science Club. Two other designs were also embroidered, however they were primarily developed by others, with my only jobs being to convert them to SVG format so they could be embroidered, test out different colours, make previews, etc. This design was developed by me, with feedback from others along the way, and was based on the existing FLASC logo seen in the table-banner above. The multi-coloured colour scheme was adapted from the designs used for the club's 2019 'Drinking CaPS' pubcrawl (when they went by the name Thinking CaPS).
@@ -128,15 +140,3 @@ Posters made for the FLinders Academic Science Club. Both advertise the club to 
 <img src="FLASC - General Posters/GeneralPoster v8.png" width="57.97%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - General Posters/BoardPoster v8.png" width="41.00%"/>
 
 © Alex Priest & FLASC 2022
-
-## FLASC Quiz Nights
-
-Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and handed out to advertise the quiz night. Animated TV slides were made each, showing the same trivia cards (low-res/low-framerate gifs are shown below). Static TV slides or instagram posts were also made each year, e.g. for screens that couldn't support showing a video.
-
-<img src="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" width="49.5%"/> <img src="FLASC - Quiz Night 2024/Animated-slide-mini.gif" width="49.5%"/>
-
-<img src="FLASC - Quiz Night 2023/card-front.png" width="24.5%"/> <img src="FLASC - Quiz Night 2023/card-back.png" width="24.5%"/> <img src="FLASC - Quiz Night 2024/card-front.png" width="24.5%"/> <img src="FLASC - Quiz Night 2024/card-back.png" width="24.5%"/>
-
-<img src="FLASC - Quiz Night 2023/Static Quiz Night Slide V9.png" width="46.5%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-1.png" width="26%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-2.png" width="26%"/>
-
-© Alex Priest & FLASC 2024
