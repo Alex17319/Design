@@ -19,7 +19,7 @@ This is a collection of computing-related icons made for the Flinders Uni Comput
 
 ## FLASC Quiz Nights
 
-Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and handed out to advertise the quiz night. Animated TV slides were made each year, showing the same trivia cards (low-res/low-framerate GIFs are shown below). Static TV slides or instagram posts were also made each year, e.g. for screens that couldn't support showing a video.
+Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and handed out to advertise the quiz night (in 2023 these cards were made before the event date had been finalised). Animated TV slides were made each year, showing the same trivia cards (low-res/low-framerate GIFs are shown below). Static TV slides or instagram posts were also made each year, e.g. for screens that couldn't support showing a video.
 
 <img src="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" width="49.5%"/> <img src="FLASC - Quiz Night 2024/Animated-slide-mini.gif" width="49.5%"/>
 
