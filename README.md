@@ -67,7 +67,7 @@ The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version
 
 ## Flinders Science Ball 2024 (Barbenheimer)
 
-Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), a competition announcement post (two sashes for best dressed), further social media posts and info, a slide, a design for drinks tokens, a poster put up around campus, and a drinks menu printed at the venue.
+Advertising material for Flinders Science ball in 2023. The images shown are as follows: A poster, a drinks menu printed at the venue, a TV slide, a design for drinks tokens, an initial social media post (in 4 parts), a competition announcement post (two sashes for best dressed), and further social media posts.
 
 <img src="FLASC - Barbenheimer Ball/Ball 2024 Poster digital.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Drinks menu.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Slide.png" width="49.7%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Drinks Token.png" width="49.3%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-1.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-2.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-3.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-4.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-5.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-6.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-7.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/P_20240325_151136-square.jpg" width="32.65%"/>
 
