@@ -3,7 +3,7 @@ A collection of graphic design assets I've made for various projects. For the mo
 
 ## FLASC hallway banner
 
-Hanging hallway banner (2.4m wide) made for the FLinders Academic Science Club, to replace their existing banner from when they went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). Below the design is the existing Thinking CaPS design, which the new one was based on.
+Hanging hallway banner (2.4m wide) made for the FLinders Academic Science Club, to replace our existing banner from when we went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). Below the design is the existing Thinking CaPS design, which the new one was based on.
 
 <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" alt="Horizontal blue banner, with text on the left and various science-related images in hexagons on the right. The text reads: FLASC. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc. Flinders Academic Science Club" width="100%"/>
 
@@ -19,7 +19,7 @@ This is a collection of computing-related icons made for the Flinders Uni Comput
 
 ## FLASC Quiz Nights
 
-Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and handed out to advertise the quiz night. Animated TV slides were made each, showing the same trivia cards (low-res/low-framerate gifs are shown below). Static TV slides or instagram posts were also made each year, e.g. for screens that couldn't support showing a video.
+Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and handed out to advertise the quiz night. Animated TV slides were made each year, showing the same trivia cards (low-res/low-framerate GIFs are shown below). Static TV slides or instagram posts were also made each year, e.g. for screens that couldn't support showing a video.
 
 <img src="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" width="49.5%"/> <img src="FLASC - Quiz Night 2024/Animated-slide-mini.gif" width="49.5%"/>
 
@@ -31,7 +31,7 @@ Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and hand
 
 ## FLASC Merchandise (2022)
 
-Merchandise organised for the FLinders Academic Science Club. Two other designs were also embroidered, however they were primarily developed by others, with my only jobs being to convert them to SVG format so they could be embroidered, test out different colours, make previews, etc. This design was developed by me, with feedback from others along the way, and was based on the existing FLASC logo seen in the table-banner above. The multi-coloured colour scheme was adapted from the designs used for the club's 2019 'Drinking CaPS' pubcrawl (when they went by the name Thinking CaPS).
+Merchandise organised for the FLinders Academic Science Club. Two other designs were also embroidered, however they were primarily developed by others, with my only jobs being to convert them to SVG format so they could be embroidered, test out different colours, make previews, etc. This design was developed by me, with feedback from others along the way, and was based on an existing blue FLASC logo. The multi-coloured colour scheme was adapted from the designs used for the club's 2019 'Drinking CaPS' pubcrawl (when they went by the name Thinking CaPS).
 
 <img src="FLASC - Merch/Multicolour flasc 3.10 blue-bg cropped.png" alt="Conical flask with the letters F, L, A, S, C squished inside it" width="33.33%"/><img src="FLASC - Merch/Multicolour flasc on carolina-blue preview.png" alt="Light blue jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="33.33%"/><img src="FLASC - Merch/Multicolour flasc on black preview.png" alt="Black jumper with a conical flasc to one side of the chest, with the letters F, L, A, S, C squished inside the flask" width="33.33%"/>
 
@@ -41,7 +41,7 @@ Merchandise organised for the FLinders Academic Science Club. Two other designs 
 
 ## FLASC Lab Brat Pub Crawl
 
-Branding materials and shirts (etc) for a pub crawl in late 2024, run by the FLinders Academic Science Club. Designs were made in Inkscape, and most shirts etc were sold through Redbubble. Custom retro-reflective tank tops were dyed at home, and then hand-cut anti-reflective letters were ironed on. The club changed our profile picture to brat green while advertising the pub crawl. Posters around campus were a cryptic QR code plus the words lab brat.
+Branding materials and shirts (etc) for a pub crawl in late 2024, run by the FLinders Academic Science Club. Designs were made in Inkscape, and most shirts etc were sold through Redbubble. Custom retro-reflective tank tops were dyed at home, and then hand-cut anti-reflective letters were ironed on. The images shown are as follows: social media images sent in one post (7 total), a route announcement post, a route update post, a temporary profile picture used by the club while adevertising the event, a cryptic poster put up around campus with only a QR code for more info, custom-made tank tops, merch sold via Redbubble, and a modified copy of the club's existing periodic table.
 
 <img src="FLASC - Lab Brat/ig-squares-1a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-2a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-3a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-4a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-5a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-6a.png" width="24%"/> <img src="FLASC - Lab Brat/ig-squares-7a.png" width="24%"/> <img src="FLASC - Lab Brat/route-announcement-ig-square.png" width="24%"/> <img src="FLASC - Lab Brat/route-update-ig-square-v2.png" width="24%"/> <img src="FLASC - Lab Brat/temporary-ig-profile-pic.png" width="24%"/> <img src="FLASC - Lab Brat/lab-brat-poster-v2.png" width="24%"/> <img src="FLASC - Lab Brat/P_20240805_000447~4.jpg" width="24%"/> <img src="FLASC - Lab Brat/P_20240805_000411~4.jpg" width="24%"/> <img src="FLASC - Lab Brat/redbubble-shirts-1-crop.jpg" width="24%"/> <img src="FLASC - Lab Brat/square-apron.jpg" width="24%"/> <img src="FLASC - Lab Brat/square-mug.jpg" width="24%"/> <img src="FLASC - Lab Brat/redbubble-cushion.jpg" width="24%"/> <img src="FLASC - Lab Brat/redbubble-pet-bandanna.jpg" width="24%"/> <img src="FLASC - Lab Brat/square-spiral-book.jpg" width="24%"/> <img src="FLASC - Lab Brat/Table of brat.png" width="24%"/>
 
