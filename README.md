@@ -95,6 +95,14 @@ Pull-up banner (2m tall) made for the FLinders Academic Science Club, to replace
 
 © Alex Priest & FLASC 2023
 
+## FLASC general posters
+
+Posters made for the FLinders Academic Science Club. Both advertise the club to all students - the square one is intended for general member signups, while the rectangular one is intended to attract potential new board/exec members. Both designs were made in Inkscape, with feedback from others along the way. The logo & science-glyphs were made by others previously, while the text inside the hexagons was based on one of the club's old Facebook banners.
+
+<img src="FLASC - General Posters/GeneralPoster v8.png" width="57.97%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - General Posters/BoardPoster v8.png" width="41.00%"/>
+
+© Alex Priest & FLASC 2022
+
 ## FLASC floor stickers
 
 Circular floor stickers made for the FLinders Academic Science Club, placed along pathways to point towards the club's common room, to replace their existing stickers from when they went by the name Thinking CaPS. The design was made in Canva, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
@@ -121,6 +129,18 @@ Adverstising for a study session run by the Flinders Uni Computer Society, in po
 
 © Alex Priest & FUCS 2022
 
+## FUCS Charity Pub Crawl for Ukraine
+
+Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Computer Society. The design was based on a rough sketch by the club president. The images are as follows: a slide, a poster, a social media route announcement image, a facebook banner, a shirt design for guests, a general social media square, and a shirt design for event organisers. Note that the route was later updated, but this was after others began running more aspects of the event (such as the branding).
+
+<img src="FUCS - Ukraine Pub Crawl/Slide v6.png" alt="Presentation slide: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'. Text to the right reads 'Charity pub crawl. 16th of sep. All welcome. T-shirt presales close 15th of august. During Russia's February attack on Snake Island, the warship Moskva called on the 13 defenders to surrender, or else they would be bombed. The response? 'Russian warship, go f*ck yourself'. This became a rallying call at protests against the war around the world. To aid the war relief effort, FUCS is running a pub crawl, with 100% of all profits donated to charities supporting Ukraine. More info: direct.me/flinderscs'" width="70.84%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/Poster v10.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'. Text below reads 'Charity pub crawl. 16th of sep. All welcome. T-shirt presales close 15th of august. During Russia's February attack on Snake Island, the warship Moskva called on the 13 defenders to surrender, or else they would be bombed. The response? 'Russian warship, go f*ck yourself'. This became a rallying call at protests against the war around the world. To aid the war relief effort, FUCS is running a pub crawl, with 100% of all profits donated to charities supporting Ukraine. More info: direct.me/flinderscs'" width="28.15%"/>
+
+<img src="FUCS - Ukraine Pub Crawl/Social media square B route v17.png" alt="Route announcement social media square: Yellow text on blue, Showing a route through a map of the city. The text reads 'Stop 1: Atlantis 6:00 – 8:15 PM 25% off drinks. Stop 2: West Oak Hotel 8:30 – 9:30 PM. Stop 3: Zambrero 9:45 – 10:15 PM. Stop 4: Woolshed 10:30 PM – 1:00 AM $6 beers and base spirits.'" width="34.01%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/FB Banner v6.png" alt="Facebook banner design: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'. Peace symbols are shown to the sides of the main design" width="64.98%"/>
+
+<img src="FUCS - Ukraine Pub Crawl/Shirt design v37a member.png" alt="A4 shirt design: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="28.70%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/Social media square A v2.png" alt="Social media square: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="40.59%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/Shirt design v37b exec.png" alt="A4 shirt design for organisers: Blue text on yellow, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="28.70%"/>
+
+© Alex Priest & FUCS 2022
+
 ## FLASC SWOTVAC Study Sessions
 
 Branding materials for regular study sessions run by the FLinders Academic Science Club. The initial designs were made in Inkscape, then exported as separate components (e.g. title, border, background, textbox, etc) and reconstructed in Canva, so that others could easily the body text/etc each semester. A combination of blank templates, and complete 2023 Semester 1 designs, are shown here. The FLASC logo & science-related glyphs were made by others beforehand, while the rest was new. The designs are, in order: A TV slide, an a4 poster, 6x social media squares, 2x blank name badges, and 3x A4 signs placed on the tables for different subjects.
@@ -134,23 +154,3 @@ Branding materials for regular study sessions run by the FLinders Academic Scien
 <img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank tutor.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - SWOTVAC Study Sessions/Name Badge v1 - blank organiser.png" width="28.46%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Bio.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Chem.png" width="13.02%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - SWOTVAC Study Sessions/Table Signs v2 - Phys.png" width="13.02%"/>
 
 © Alex Priest & FLASC 2023
-
-## FUCS Charity Pub Crawl for Ukraine
-
-Shirt designs & advertising for a charity pub crawl run by the Flinders Uni Computer Society. The design was based on a rough sketch by the club president. The images are as follows: a slide, a poster, a social media route announcement image, a facebook banner, a shirt design for guests, a general social media square, and a shirt design for event organisers. Note that the route was later updated, but this was after others began running more aspects of the event (such as the branding).
-
-<img src="FUCS - Ukraine Pub Crawl/Slide v6.png" alt="Presentation slide: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'. Text to the right reads 'Charity pub crawl. 16th of sep. All welcome. T-shirt presales close 15th of august. During Russia's February attack on Snake Island, the warship Moskva called on the 13 defenders to surrender, or else they would be bombed. The response? 'Russian warship, go f*ck yourself'. This became a rallying call at protests against the war around the world. To aid the war relief effort, FUCS is running a pub crawl, with 100% of all profits donated to charities supporting Ukraine. More info: direct.me/flinderscs'" width="70.84%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/Poster v10.png" alt="Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'. Text below reads 'Charity pub crawl. 16th of sep. All welcome. T-shirt presales close 15th of august. During Russia's February attack on Snake Island, the warship Moskva called on the 13 defenders to surrender, or else they would be bombed. The response? 'Russian warship, go f*ck yourself'. This became a rallying call at protests against the war around the world. To aid the war relief effort, FUCS is running a pub crawl, with 100% of all profits donated to charities supporting Ukraine. More info: direct.me/flinderscs'" width="28.15%"/>
-
-<img src="FUCS - Ukraine Pub Crawl/Social media square B route v17.png" alt="Route announcement social media square: Yellow text on blue, Showing a route through a map of the city. The text reads 'Stop 1: Atlantis 6:00 – 8:15 PM 25% off drinks. Stop 2: West Oak Hotel 8:30 – 9:30 PM. Stop 3: Zambrero 9:45 – 10:15 PM. Stop 4: Woolshed 10:30 PM – 1:00 AM $6 beers and base spirits.'" width="34.01%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/FB Banner v6.png" alt="Facebook banner design: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'. Peace symbols are shown to the sides of the main design" width="64.98%"/>
-
-<img src="FUCS - Ukraine Pub Crawl/Shirt design v37a member.png" alt="A4 shirt design: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="28.70%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/Social media square A v2.png" alt="Social media square: Yellow text on blue, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="40.59%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Ukraine Pub Crawl/Shirt design v37b exec.png" alt="A4 shirt design for organisers: Blue text on yellow, surrounded by some other graphics, and reading 'Russian warship, go FUCS yourself. Regards, the Flinders Uni Computer Society'" width="28.70%"/>
-
-© Alex Priest & FUCS 2022
-
-## FLASC general posters
-
-Posters made for the FLinders Academic Science Club. Both advertise the club to all students - the square one is intended for general member signups, while the rectangular one is intended to attract potential new board/exec members. Both designs were made in Inkscape, with feedback from others along the way. The logo & science-glyphs were made by others previously, while the text inside the hexagons was based on one of the club's old Facebook banners.
-
-<img src="FLASC - General Posters/GeneralPoster v8.png" width="57.97%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - General Posters/BoardPoster v8.png" width="41.00%"/>
-
-© Alex Priest & FLASC 2022
