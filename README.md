@@ -1,7 +1,7 @@
 # Design
 A collection of graphic design assets I've made for various projects. For the most part, these are shown in chronological order, from oldest at the top to newest at the bottom.
 
-## FLASC hallway banner
+## FLASC Hallway Banner
 
 Hanging hallway banner (2.4m wide) made for the FLinders Academic Science Club, to replace our existing banner from when we went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). Below the design is the existing Thinking CaPS design, which the new one was based on.
 
@@ -47,13 +47,13 @@ Branding materials and shirts (etc) for a pub crawl in late 2024, run by the FLi
 
 © Alex Priest & FLASC 2024
 
-## FLASC book stickers
+## FUCS Logo
 
-55 x 84mm stickers made for the FLinders Academic Science Club, to stick on books & other property, replacing their existing stickers from when they went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
+The 2022 logo for the Flinders Uni Computer Society. The blue version was created by me, with significant feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president.
 
-<img src="FLASC - Book stickers/sticker v29 rounded.png" alt="Rectangular blue sticker, with a tilted FLASC logo on the left, and text on the right. The text reads: FLINDERS ACADEMIC SCIENCE CLUB. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc" width="49.49%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Book stickers/Thinking CaPS old book sticker rounded.png" alt="Rectangular yellow sticker, with orange hexagons on the right and black text on the left. The text includes a stylised Thinking CaPS logo, followed by www.ThinkingCaPS.club" width="49.49%"/>
+<img src="FUCS - Logo/Logo v19.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Logo/Logo v21.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/>
 
-© Alex Priest & FLASC 2023
+© Alex Priest & FUCS 2022
 
 ## FUCS Facebook Banner
 
@@ -65,29 +65,27 @@ The 2022 Facebook banner for the Flinders Uni Computer Society. The blue version
 
 © Alex Priest & FUCS 2022
 
-## FUCS Logo
+## Flinders Science Ball 2024 (Barbenheimer)
 
-The 2022 logo for the Flinders Uni Computer Society. The blue version was created by me, with significant feedback from others to guide each step of the process. The green & purple version was produced via later modifications by the club president.
+Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), a competition announcement post (two sashes for best dressed), further social media posts and info, a slide, a design for drinks tokens, a poster put up around campus, and a drinks menu printed at the venue.
 
-<img src="FUCS - Logo/Logo v19.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/><img src="Utils/Padding.png" width="1%"/><img src="FUCS - Logo/Logo v21.png" alt="A computer monitor with the letters F, U, C, and S in a grid, surrounded by scattered computing-related icons" width="49.5%"/>
+<img src="FLASC - Barbenheimer Ball/Ball 2024 Poster digital.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Drinks menu.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Slide.png" width="49.7%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Drinks Token.png" width="49.3%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-1.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-2.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-3.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-4.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-5.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-6.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-7.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/P_20240325_151136-square.jpg" width="32.65%"/>
 
-© Alex Priest & FUCS 2022
+## Flinders Science Ball 2025 (The Glambrian Explosion)
 
-## FUCS Studying!
+Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), further social media posts (photos of previous balls were also interspersed), a TV slide, drinks tokens, and a poster.
 
-Adverstising for a study session run by the Flinders Uni Computer Society, in poster/slide/social-media formats. Assembled in Canva from components made using Inkscape. The computer character/mascot was made previously by others in the club.
+<img src="FLASC - Glambrian Explosion Ball/IG 1.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 2.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 1.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 4.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 5.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 6.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 7.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 8.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 9.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 TV Slide.png" width="49.5%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 Drinks Tokens.png" width="49.5%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 Poster V2.png" width="49.5%"/>
 
-<img src="FUCS - FUCS Studying!/FUCS Studying Collage 2022 S1.png" alt="Poster, social media square, and slide adverstising FUCS Studying!" width="100%"/>
+© Alex Priest & FLASC 2024
 
-© Alex Priest & FUCS 2022
+## FLASC Book Stickers
 
-## FLASC floor stickers
+55 x 84mm stickers made for the FLinders Academic Science Club, to stick on books & other property, replacing their existing stickers from when they went by the name Thinking CaPS. The design was made in Inkscape, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
 
-Circular floor stickers made for the FLinders Academic Science Club, placed along pathways to point towards the club's common room, to replace their existing stickers from when they went by the name Thinking CaPS. The design was made in Canva, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
+<img src="FLASC - Book stickers/sticker v29 rounded.png" alt="Rectangular blue sticker, with a tilted FLASC logo on the left, and text on the right. The text reads: FLINDERS ACADEMIC SCIENCE CLUB. facebook.com/flascflinders. flascflinders@gmail.com. direct.me/flasc" width="49.49%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Book stickers/Thinking CaPS old book sticker rounded.png" alt="Rectangular yellow sticker, with orange hexagons on the right and black text on the left. The text includes a stylised Thinking CaPS logo, followed by www.ThinkingCaPS.club" width="49.49%"/>
 
-<img src="FLASC - Floor stickers/Floor stickers - cropped - up - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and an upward pointing arrow inside a dark blue circle at the top." width="24.24%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Floor stickers/Floor stickers - cropped - right - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and a rightward pointing arrow inside a dark blue circle at the top." width="24.24%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Floor stickers/Floor stickers - cropped - left - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and a leftward pointing arrow inside a dark blue circle at the top." width="24.24%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Floor stickers/Thinking CaPS old floor sticker.jpg" alt="Yellow circle with a stylised Thinking Caps text in navy blue at the bottom, and with a navy blue arrow pointing upwards at the top" width="24.24%"/>
-
-© Alex Priest & FLASC 2022
+© Alex Priest & FLASC 2023
 
 ## FLASC pull-up banner
 
@@ -96,6 +94,14 @@ Pull-up banner (2m tall) made for the FLinders Academic Science Club, to replace
 <img src="FLASC - Pull-up banner/Pullup banner 35 24dpi no-bleed.png" alt="Vertical banner, with white splotches on a blue background. Text in the splotches reads: FLASC: Flinders Academic Science Club. The Student Society for all things Science. Flinders University, Bedford Park. flascflinders@gmail.com. direct.me/flasc. Flinders University" width="50.5%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Pull-up banner/Thinking CaPS old pull-up banner.jpg" alt="Vertical banner, with navy blue text on a yellow background. The text reads: Thinking CaPS. Chemical & Physical Sciences Student Society. Flinders University, Bedford Park. www.thinkingcaps.club" width="48.5%"/>
 
 © Alex Priest & FLASC 2023
+
+## FLASC floor stickers
+
+Circular floor stickers made for the FLinders Academic Science Club, placed along pathways to point towards the club's common room, to replace their existing stickers from when they went by the name Thinking CaPS. The design was made in Canva, with detailed feedback from others, and with CMYK conversion performed using Krita (RGB versions are shown here). On the right is the existing Thinking CaPS design, which the new one was based on.
+
+<img src="FLASC - Floor stickers/Floor stickers - cropped - up - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and an upward pointing arrow inside a dark blue circle at the top." width="24.24%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Floor stickers/Floor stickers - cropped - right - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and a rightward pointing arrow inside a dark blue circle at the top." width="24.24%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Floor stickers/Floor stickers - cropped - left - 500px-wide.png" alt="Blue circle with a FLASC logo in the centre, the text 'Flinders Academic Science Club' below the logo, and a leftward pointing arrow inside a dark blue circle at the top." width="24.24%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - Floor stickers/Thinking CaPS old floor sticker.jpg" alt="Yellow circle with a stylised Thinking Caps text in navy blue at the bottom, and with a navy blue arrow pointing upwards at the top" width="24.24%"/>
+
+© Alex Priest & FLASC 2022
 
 ## FUCS and FLASC Table Banners
 
@@ -106,6 +112,14 @@ Banners for the Flinders Uni Computer Society and FLinders Academic Science Club
 <img src="FLASC - Table Banner/FLASC Table Banner v11 small.png" alt="A wide banner saying 'Finders Academic Science Club', surrounded by scattered science-related icons" width="100%"/>
 
 © Alex Priest, FUCS & FLASC 2022
+
+## FUCS Studying!
+
+Adverstising for a study session run by the Flinders Uni Computer Society, in poster/slide/social-media formats. Assembled in Canva from components made using Inkscape. The computer character/mascot was made previously by others in the club.
+
+<img src="FUCS - FUCS Studying!/FUCS Studying Collage 2022 S1.png" alt="Poster, social media square, and slide adverstising FUCS Studying!" width="100%"/>
+
+© Alex Priest & FUCS 2022
 
 ## FLASC SWOTVAC Study Sessions
 
@@ -140,17 +154,3 @@ Posters made for the FLinders Academic Science Club. Both advertise the club to 
 <img src="FLASC - General Posters/GeneralPoster v8.png" width="57.97%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - General Posters/BoardPoster v8.png" width="41.00%"/>
 
 © Alex Priest & FLASC 2022
-
-## Flinders Science Ball 2024 (Barbenheimer)
-
-Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), a competition announcement post (two sashes for best dressed), further social media posts and info, a slide, a design for drinks tokens, a poster put up around campus, and a drinks menu printed at the venue.
-
-<img src="FLASC - Barbenheimer Ball/IG-FB-1.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-2.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-3.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-4.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-5.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-6.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-7.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/P_20240325_151136-square.jpg" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Slide.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Drinks Token.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Poster digital.png" width="49.5%"/> <img src="FLASC - Barbenheimer Ball/Drinks menu.png" width="49.5%"/>
-
-## Flinders Science Ball 2025 (The Glambrian Explosion)
-
-Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), further social media posts (photos of previous balls were also interspersed), a TV slide, drinks tokens, and a poster.
-
-<img src="FLASC - Glambrian Explosion Ball/IG 1.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 2.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 1.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 4.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 5.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 6.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 7.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 8.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 9.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 TV Slide.png" width="49.5%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 Drinks Tokens.png" width="49.5%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 Poster V2.png" width="49.5%"/>
-
-© Alex Priest & FLASC 2024
