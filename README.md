@@ -1,5 +1,5 @@
 # Design
-A collection of graphic design assets I've made for various projects. For the most part, these are shown in chronological order, from oldest at the top to newest at the bottom.
+A collection of graphic design assets I've made for various projects, in no particular order.
 
 ## FLASC Hallway Banner
 
