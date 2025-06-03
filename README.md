@@ -25,7 +25,7 @@ Advertising for Quiz Nights in 2023 and 2024. Trivia cards were printed and hand
 
 <img src="FLASC - Quiz Night 2023/card-front.png" width="24.5%"/> <img src="FLASC - Quiz Night 2023/card-back.png" width="24.5%"/> <img src="FLASC - Quiz Night 2024/card-front.png" width="24.5%"/> <img src="FLASC - Quiz Night 2024/card-back.png" width="24.5%"/>
 
-<img src="FLASC - Quiz Night 2023/Static Quiz Night Slide V9.png" width="46.5%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-1.png" width="26.1%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-2.png" width="26.1%"/>
+<img src="FLASC - Quiz Night 2023/Static Quiz Night Slide V9.png" width="46.4%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-1.png" width="26.1%"/> <img src="FLASC - Quiz Night 2024/2024 Quiz Night IG-2.png" width="26.1%"/>
 
 © Alex Priest & FLASC 2024
 
