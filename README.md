@@ -140,3 +140,17 @@ Posters made for the FLinders Academic Science Club. Both advertise the club to 
 <img src="FLASC - General Posters/GeneralPoster v8.png" width="57.97%"/><img src="Utils/Padding.png" width="1%"/><img src="FLASC - General Posters/BoardPoster v8.png" width="41.00%"/>
 
 © Alex Priest & FLASC 2022
+
+## Flinders Science Ball 2024 (Barbenheimer)
+
+Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), a competition announcement post (two sashes for best dressed), further social media posts and info, a slide, a design for drinks tokens, a poster put up around campus, and a drinks menu printed at the venue.
+
+<img src="FLASC - Barbenheimer Ball/IG-FB-1.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-2.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-3.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-4.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-5.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-6.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/IG-FB-7.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/P_20240325_151136-square.png" width="32.65%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Slide.png" width="49.5.%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Drinks Token.png" width="49.5.%"/> <img src="FLASC - Barbenheimer Ball/Ball 2024 Poster digital.png" width="49.5.%"/> <img src="FLASC - Barbenheimer Ball/Drinks menu.png" width="49.5.%"/>
+
+## Flinders Science Ball 2025 (The Glambrian Explosion)
+
+Advertising material for Flinders Science ball in 2023. The images shown are as follows: An initial social media post (in 4 parts), further social media posts (photos of previous balls were also interspersed), a TV slide, drinks tokens, and a poster.
+
+<img src="FLASC - Glambrian Explosion Ball/IG 1.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 2.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 1.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 4.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 5.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 6.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 7.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 8.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/IG 9.png" width="32.65%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 TV Slide.png" width="49.5%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 Drinks Tokens.png" width="49.5%"/> <img src="FLASC - Glambrian Explosion Ball/SciBall 2025 Poster V2.png" width="49.5%"/>
+
+© Alex Priest & FLASC 2024
