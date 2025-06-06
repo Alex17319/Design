@@ -5,6 +5,15 @@
   <link rel="stylesheet" href="./photoswipe/photoswipe.css">
   <link rel="stylesheet" href="./photoswipe/photoswipe-dynamic-caption-plugin.css">
   <style>
+    body {
+      margin: 0px;
+      padding: 10px;
+      background-color: #374046;
+      font-family: 'Verdana', sans-serif;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+    }
+    
     .pswp-gallery {
       display: grid;
       grid-gap: 10px;
@@ -24,16 +33,9 @@
       height: 100%;
       object-fit: cover;
     }
-    
-    /* Non-grid specific CSS */  
-    body {
-      margin: 0px;
-      padding: 10px;
-      background-color: #374046;
-      font-family: 'Garamond', 'Times New Roman', serif;
-      font-size: 1.15em;
-      text-rendering: optimizeLegibility;
-      -webkit-font-smoothing: antialiased;
+
+    .pswp__dynamic-caption {
+      font-size: 1.5em;
     }
 
     .rows-1 { grid-row: span 1 }
