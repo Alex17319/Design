@@ -76,17 +76,16 @@
   <button class="expand rows-3 cols-2">AAAAA</button>
   <button class="test">AAAAA</button>
   
-  <div class="grid">
+  <div class="grid pswp-gallery" id="gallery">
     <button class="expand-button rows-3 cols-2">
       <div class="expand-contents">
         <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" width="100%"/>
         <div class="caption">Hanging hallway banner (2.4m wide) made for the FLinders Academic Science Club. Made in Inkscape &amp; Krita. This replaced an existing design when we went by the name Thinking CaPS.</div>
       </div>
     </button>
-    <button class="expand rows-5">
-      <div class="image">asdf</div>
-      <div class="caption">aaaa</div>
-    </button>
+    <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="240" data-pswp-height="80" class="rows-5">
+      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    </a>
     <button class="expand">
       <div class="image">asdf</div>
       <div class="caption">aaaa</div>
@@ -110,7 +109,7 @@
     import PhotoSwipe from './photoswipe/photoswipe.esm.js';
     
     const lightbox = new PhotoSwipeLightbox({
-      gallery: '#gallery--no-dynamic-import',
+      gallery: '#gallery',
       children: 'a',
       pswpModule: PhotoSwipe
     });
