@@ -4,11 +4,15 @@
   <title>Alex | Design</title>
   <link rel="stylesheet" href="./photoswipe/photoswipe.css">
   <style>
-    .grid {
+    .pswp-gallery {
       display: grid;
       grid-gap: 10px;
       grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
       grid-auto-rows: 20px;
+    }
+
+    .pswp-gallery a img {
+      width: 100%;
     }
     
     /* Non-grid specific CSS */  
@@ -76,7 +80,7 @@
   <button class="expand rows-3 cols-2">AAAAA</button>
   <button class="test">AAAAA</button>
   
-  <div class="pswp-gallery" id="gallery">
+  <div class="grid pswp-gallery" id="gallery">
     <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-5">
       <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
     </a>
