@@ -26,8 +26,8 @@
     
     /* Non-grid specific CSS */  
     body {
-      margin: 10px;
-      color: #374046;
+      margin: 0px;
+      padding: 0px;
       background-color: #374046;
       font-family: 'Garamond', 'Times New Roman', serif;
       font-size: 1.15em;
@@ -55,40 +55,31 @@
   </style>
 </head>
 <body>
-  <button class="expand rows-3 cols-2">AAAAA</button>
-  <button class="test">AAAAA</button>
-  
   <div class="grid pswp-gallery" id="gallery">
     <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-1">
       <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
     </a>
-    <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-5">
-      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    <a href="FLASC - Hallway banner/P_20231110_174947-edited.jpg" data-pswp-width="1854" data-pswp-height="1018" class="rows-2">
+      <img src="FLASC - Hallway banner/P_20231110_174947-edited.jpg" />
     </a>
-    <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-2">
-      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    <a href="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" data-pswp-width="1542" data-pswp-height="558" class="rows-5">
+      <img src="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" />
     </a>
-    <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-1 cols-3">
-      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    <a href="FUCS - Glyphs/Glyphs.png" data-pswp-width="2268" data-pswp-height="756" class="rows-1 cols-3">
+      <img src="FUCS - Glyphs/Glyphs.png" />
     </a>
-    <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-1">
-      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    <a href="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" data-pswp-width="480" data-pswp-height="270" class="rows-1">
+      <img src="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" />
     </a>
-    <a href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756" class="rows-1">
-      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    <a href="FLASC - Quiz Night 2024/Animated-slide-mini.gif" data-pswp-width="480" data-pswp-height="270" class="rows-1">
+      <img src="FLASC - Quiz Night 2024/Animated-slide-mini.gif" />
     </a>
   </div>
 
   <script type="module">
     import PhotoSwipeLightbox from './photoswipe/photoswipe-lightbox.esm.js';
     import PhotoSwipe from './photoswipe/photoswipe.esm.js';
-    
-    const lightbox = new PhotoSwipeLightbox({
-      gallery: '#gallery',
-      children: 'a',
-      pswpModule: PhotoSwipe
-    });
-    
+    const lightbox = new PhotoSwipeLightbox({ gallery: '#gallery', children: 'a', pswpModule: PhotoSwipe });
     lightbox.init();
   </script>
 </body>
