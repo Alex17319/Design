@@ -21,14 +21,23 @@
       -webkit-font-smoothing: antialiased;
     }
     
-    .item {
+    .expand {
       background-color: #ffffff;
     }
+
+    .rows-1 { grid-row: span 1 }
+    .rows-2 { grid-row: span 2 }
+    .rows-3 { grid-row: span 3 }
+    .rows-4 { grid-row: span 4 }
+    .rows-5 { grid-row: span 5 }
+    .rows-6 { grid-row: span 6 }
+    .rows-7 { grid-row: span 7 }
+    .rows-8 { grid-row: span 8 }
   </style>
 </head>
 <body>
   <div class="grid">
-    <button class="expand">
+    <button class="expand rows-3">
       <div class="image">asdf</div>
       <div class="caption">asdf</div>
     </button>
