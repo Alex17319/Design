@@ -3,6 +3,7 @@
 <head>
   <title>Alex | Design</title>
   <link rel="stylesheet" href="./photoswipe/photoswipe.css">
+  <link rel="stylesheet" href="./photoswipe/photoswipe-dynamic-caption-plugin.css">
   <style>
     .pswp-gallery {
       display: grid;
@@ -58,28 +59,41 @@
   <div class="grid pswp-gallery" id="gallery">
     <a class="rows-1 cols-2" href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756">
       <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+      <span class="pswp-caption-content">FLASC Hallway Banner<br><i>Flinders Academic Science Club</i><br>2.4m x 0.8m<br>Made in Inkscape &amp: Krita</span>
     </a>
     <a class="rows-1 cols-1" href="FLASC - Hallway banner/P_20231110_174947-edited.jpg" data-pswp-width="1854" data-pswp-height="1018">
       <img src="FLASC - Hallway banner/P_20231110_174947-edited.jpg" />
+      <span class="pswp-caption-content">FLASC Hallway Banner<br><i>Flinders Academic Science Club</i><br>2.4m x 0.8m<br>Made in Inkscape &amp: Krita</span>
     </a>
     <a class="rows-1 cols-1" href="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" data-pswp-width="1542" data-pswp-height="558">
       <img src="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" />
+      <span class="pswp-caption-content">An old 'Thinking CaPS' banner. Our club, Thinking CaPS, rebranded as FLASC, so the new banner (by me) was based upon this old design (by others).</span>
     </a>
     <a class="rows-1 cols-1" href="FUCS - Glyphs/Glyphs-white-bg.png" data-pswp-width="4144" data-pswp-height="2637">
       <img src="FUCS - Glyphs/Glyphs-white-bg.png" />
+      <span class="pswp-caption-content">FUCS Glyphs<br><i>Flinders University Computer Society</i><br>A set of computing-related icons designed for logos, cover photos, slide backgrounds, etc<br>The insects/etc represent bugs in code, e.g. for any debugging-related events</span>
     </a>
     <a class="rows-1 cols-1" href="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" data-pswp-width="480" data-pswp-height="270">
       <img src="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" />
+      <span class="pswp-caption-content">FLASC Quiz Night 2023<br><i>Flinders Academic Science Club</i><br>Animated slide (low-res, low-framerate GIF shown here)</span>
     </a>
     <a class="rows-1 cols-1" href="FLASC - Quiz Night 2024/Animated-slide-mini.gif" data-pswp-width="480" data-pswp-height="270">
       <img src="FLASC - Quiz Night 2024/Animated-slide-mini.gif" />
+      <span class="pswp-caption-content">FLASC Quiz Night 2024<br><i>Flinders Academic Science Club</i><br>Animated slide (low-res, low-framerate GIF shown here)</span>
     </a>
   </div>
 
   <script type="module">
     import PhotoSwipeLightbox from './photoswipe/photoswipe-lightbox.esm.js';
     import PhotoSwipe from './photoswipe/photoswipe.esm.js';
-    const lightbox = new PhotoSwipeLightbox({ gallery: '#gallery', children: 'a', pswpModule: PhotoSwipe });
+    import PhotoSwipeDynamicCaption from './photoswipe/photoswipe-dynamic-caption-plugin.esm.js';
+    const lightbox = new PhotoSwipeLightbox({
+      gallery: '#gallery',
+      children: 'a',
+      pswpModule: PhotoSwipe,
+      paddingFn: (viewportSize) => { return { top: 30, bottom: 30, left: 70, right: 70 }},
+    });
+    const captionPlugin = new PhotoSwipeDynamicCaption(lightbox, { type: 'auto' });
     lightbox.init();
   </script>
 </body>
