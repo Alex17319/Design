@@ -2,6 +2,29 @@
 <html>
 <head>
   <title>Alex | Design</title>
+  <style>
+    .grid {
+      display: grid;
+      grid-gap: 10px;
+      grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+      grid-auto-rows: 20px;
+    }
+    
+    /* Non-grid specific CSS */  
+    body {
+      margin: 10px;
+      color: #374046;
+      background-color: #374046;
+      font-family: 'Garamond', 'Times New Roman', serif;
+      font-size: 1.15em;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+    }
+    
+    .item {
+      background-color: #ffffff;
+    }
+  </style>
 </head>
 <body>
   <div class="grid">
