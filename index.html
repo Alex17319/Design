@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Alex | Design</title>
+  <link rel="stylesheet" href="photoswipe/dist/photoswipe.css">
   <style>
     .grid {
       display: grid;
@@ -103,5 +104,18 @@
       <div class="caption">aaaa</div>
     </button>
   </div>
+
+  <script type="module">
+    import PhotoSwipeLightbox from './photoswipe/photoswipe-lightbox.esm.js';
+    import PhotoSwipe from './photoswipe/photoswipe.esm.js';
+    
+    const lightbox = new PhotoSwipeLightbox({
+      gallery: '#gallery--no-dynamic-import',
+      children: 'a',
+      pswpModule: PhotoSwipe
+    });
+    
+    lightbox.init();
+  </script>
 </body>
 </html>
