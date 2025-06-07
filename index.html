@@ -5,9 +5,14 @@
   <link rel="stylesheet" href="./photoswipe/photoswipe.css">
   <link rel="stylesheet" href="./photoswipe/photoswipe-dynamic-caption-plugin.css">
   <style>
+    :root {
+      --col-width: 150px;
+      --gap: 10px;
+    }
+    
     body {
       margin: 0px;
-      padding: 10px;
+      padding: var(--gap);
       background-color: #161a1d;
       font-family: 'Verdana', sans-serif;
       text-rendering: optimizeLegibility;
@@ -16,8 +21,8 @@
     
     .pswp-gallery {
       display: grid;
-      grid-gap: 10px;
-      grid-template-columns: repeat(auto-fill, minmax(150px,1fr) minmax(150px,1fr)); /* repeating minmax forces an even number of columns */
+      grid-gap: var(--gap);
+      grid-template-columns: repeat(auto-fill, minmax(var(--col-width),1fr) minmax(var(--col-width),1fr)); /* repeating minmax forces an even number of columns */
       grid-auto-rows: auto;
     }
 
@@ -61,10 +66,24 @@
 
     .cols-1 { grid-column: span 1 }
     .cols-2 { grid-column: span 2 }
-    .cols-3 { grid-column: span 3 }
-    .cols-4 { grid-column: span 4 }
-    .cols-5 { grid-column: span 5 }
-    .cols-6 { grid-column: span 6 }
+
+    @media (min-width: calc(var(--col-width) * 4 + var(--gap) * 2 + 5px)) {
+      .cols-3 { grid-column: span 3 }
+      .cols-4 { grid-column: span 4 }
+    }
+    @media not (min-width: calc(var(--col-width) * 4 + var(--gap) * 2 + 5px)) {
+      .cols-3 { grid-column: span 2 }
+      .cols-4 { grid-column: span 2 }
+    }
+
+    @media (min-width: calc(var(--col-width) * 6 + var(--gap) * 2 + 5px)) {
+      .cols-5 { grid-column: span 5 }
+      .cols-6 { grid-column: span 6 }
+    }
+    @media not (min-width: calc(var(--col-width) * 6 + var(--gap) * 2 + 5px)) {
+      .cols-5 { grid-column: span 2 }
+      .cols-6 { grid-column: span 2 }
+    }
   </style>
 </head>
 <body>
