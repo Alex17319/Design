@@ -7,7 +7,6 @@
   <style>
     body {
       margin: 0px;
-      padding: 10px;
       background-color: #161a1d;
       font-family: 'Verdana', sans-serif;
       text-rendering: optimizeLegibility;
@@ -16,9 +15,9 @@
     
     .pswp-gallery {
       display: grid;
-      grid-gap: 10px;
       grid-template-columns: repeat(auto-fill, minmax(150px,1fr) minmax(150px,1fr)); /* repeating minmax forces an even number of columns */
       grid-auto-rows: auto;
+      margin: 5px;
     }
 
     .pswp-gallery a {
@@ -26,6 +25,8 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      margin: 5px;
+      background-size: cover;
     }
 
     .pswp-gallery a img {
@@ -38,7 +39,7 @@
       font-size: 1.2em;
     }
 
-        .asp-1 , .rasp-1  { aspect-ratio: 12/1; }
+    .asp-1 , .rasp-1  { aspect-ratio: 12/1; }
     .asp-2 , .rasp-2  { aspect-ratio: 12/2; }
     .asp-3 , .rasp-3  { aspect-ratio: 12/3; }
     .asp-4 , .rasp-4  { aspect-ratio: 12/4; }
@@ -126,24 +127,19 @@
   <!-- A4 landscape = 7 rows -->
   <!-- A4 portrait = 9 rows -->
   <div class="grid pswp-gallery" id="gallery">
-    <a class="rows-8 asp-4 cols-4" href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" data-pswp-width="2268" data-pswp-height="756">
-      <img src="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" />
+    <a class="rows-8 asp-4 cols-4" href="FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png" style="background-image: url('FLASC - Hallway banner/Hallway Banner v6.6 24dpi no-bleed.png')" data-pswp-width="2268" data-pswp-height="756">
       <span class="pswp-caption-content"><h1>FLASC Hallway Banner</h1><p>A banner design made for hallways around campus</p><p>2.4m x 0.8m</p><p>Made in Inkscape &amp; Krita</p></span>
     </a>
-    <a class="rasp-7 cols-2" href="FLASC - Hallway banner/P_20231110_174947-edited.jpg" data-pswp-width="1854" data-pswp-height="1018">
-      <img src="FLASC - Hallway banner/P_20231110_174947-edited.jpg" />
+    <a class="rasp-7 cols-2" href="FLASC - Hallway banner/P_20231110_174947-edited.jpg" style="background-image: url('FLASC - Hallway banner/P_20231110_174947-edited.jpg')" data-pswp-width="1854" data-pswp-height="1018">
       <span class="pswp-caption-content"><h1>FLASC Hallway Banner</h1><p>A copy of our banner, on permanent display outside lecture theatures South 1+2</p><p>2.4m x 0.8m</p><p>Made in Inkscape &amp; Krita</p></span>
     </a>
-    <a class="rasp-7 cols-2" href="FLASC - Hallway banner/P_20231109_171746-edited-cropped.jpg" data-pswp-width="3072" data-pswp-height="1696">
-      <img src="FLASC - Hallway banner/P_20231109_171746-edited-cropped.jpg" />
+    <a class="rasp-7 cols-2" href="FLASC - Hallway banner/P_20231109_171746-edited-cropped.jpg" style="background-image: url('FLASC - Hallway banner/P_20231109_171746-edited-cropped.jpg')" data-pswp-width="3072" data-pswp-height="1696">
       <span class="pswp-caption-content"><h1>FLASC Hallway Banner</h1><p>A copy of our banner, on permanent display in level 3 of the Physical Sciences building</p><p>2.4m x 0.8m</p><p>Made in Inkscape &amp; Krita</p></span>
     </a>
-    <a class="rasp-4 cols-2" href="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" data-pswp-width="1542" data-pswp-height="558">
-      <img src="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" />
+    <a class="rasp-4 cols-2" href="FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg" style="background-image: url('FLASC - Hallway banner/Thinking CaPS old hallway banner.jpg')" data-pswp-width="1542" data-pswp-height="558">
       <span class="pswp-caption-content"><p>Prior design. The club rebranded from Thinking CaPS to FLASC. The new banner design (made by me) was based upon this design (made by others).</p></span>
     </a>
-    <a class="rasp-7 cols-2" href="FUCS - Glyphs/Glyphs-white-bg.png" data-pswp-width="4144" data-pswp-height="2637">
-      <img src="FUCS - Glyphs/Glyphs-white-bg.png" />
+    <a class="rasp-7 cols-2" href="FUCS - Glyphs/Glyphs-white-bg.png" style="background-image: url('FUCS - Glyphs/Glyphs-white-bg.png')" data-pswp-width="4144" data-pswp-height="2637">
       <span class="pswp-caption-content"><h1>FUCS Glyphs</h1><p>Made in Inkscape</p><p>A set of computing-related icons designed for logos, cover photos, slide backgrounds, etc.</p><p>The insects represent bugs in code, e.g. for any debugging-related events.</p></span>
     </a>
     <a class="rasp-7 cols-2" href="FLASC - Quiz Night 2023/Animated-slide v3.1-mini.gif" data-pswp-width="480" data-pswp-height="270">
