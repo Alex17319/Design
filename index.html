@@ -30,17 +30,22 @@
       width: calc(100% - 10px);
     }
 
+    .pswp-gallery a img {
+      min-width: 100%;
+      min-height: 100%;
+      object-fit: cover;
+    }
+
     .pswp-gallery a.nocrop {
       height: initial;
       width: initial;
       max-height: 100%;
       max-width: 100%;
     }
-
-    .pswp-gallery a img {
-      min-width: 100%;
-      min-height: 100%;
-      object-fit: cover;
+    .pswp-gallery a.nocrop img {
+      min-height: initial;
+      max-height: 100%;
+      max-width: 100%;
     }
 
     .pswp__dynamic-caption {
