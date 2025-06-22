@@ -1,0 +1,7 @@
+Based on this video:
+https://www.youtube.com/watch?v=SqhXQUzVMlQ&ab_channel=SteveMould
+
+Trough width: 5mm
+Trough shape: Semi circular
+Wall width: 2mm
+Wall shape (ideally): Semi circular. In practice this may be be too tricky
